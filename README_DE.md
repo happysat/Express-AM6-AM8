@@ -9,18 +9,18 @@ die aufgrund von Sanktionen gegen Russland (alles) und Iran (Press TV) von den E
 
  ## Appendix
 
-- [ 1.1 Satellitenbeschreibung ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-description)
-- [ 1.2 Dish und LNB ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-and-lnb)
-- [ 1.3 Footprint ](https://github.com/happysat/Express-AM8/blob/main/README.md#footprint)
-- [ 1.4 Ausrichtung Satellitenschüssel ](https://github.com/happysat/Express-AM8/blob/main/README.md#Ausrichtung-Satellitenschüssel)
-- [ 1.5 Transponder und Frequenzen ](https://github.com/happysat/Express-AM8/blob/main/README.md#telemetry-transponders-and-beacon-frequencies)
-- [ 1.6 T2-MI Technologie ](https://github.com/happysat/Express-AM8/blob/main/README.md#t2-mi-technology)
-- [ 1.7 Satellitenempfänger ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-receivers)
-- [ 1.8 DVB-S Karten Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#dvb-s-card-software)
-- [ 1.9 Codecs, Player, Streaming Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#codecs-players-streaming-software)
-- [ 2.0 Elektronischer Programmführer XMLTV](https://github.com/happysat/Express-AM8/blob/main/README.md#electronic-program-guide-xmltv)
-- [ 2.1 Nachrichten und Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
-- [ 2.2 Haftungsausschluss ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
+- [ 1.1 Satellitenbeschreibung ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#satellite-description)
+- [ 1.2 Dish und LNB ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#dish-and-lnb)
+- [ 1.3 Footprint ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#footprint)
+- [ 1.4 Ausrichtung Satellitenschüssel ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#ausrichtung-satellitensch%C3%BCssel)
+- [ 1.5 Transponder und Frequenzen ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#telemetry-transponders-and-beacon-frequencies)
+- [ 1.6 T2-MI Technologie ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#t2-mi-technology)
+- [ 1.7 Satellitenempfänger ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#satellite-receivers)
+- [ 1.8 DVB-S Karten Software ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#dvb-s-card-software)
+- [ 1.9 Codecs, Player, Streaming Software ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#codecs-players-streaming-software)
+- [ 2.0 Elektronischer Programmführer XMLTV](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#electronic-program-guide-xmltv)
+- [ 2.1 Nachrichten und Updates ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#news-and-updates)
+- [ 2.2 Haftungsausschluss ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#disclaimer)
 
 ## Satellitenbeschreibung
 

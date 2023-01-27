@@ -12,7 +12,7 @@ die aufgrund von Sanktionen gegen Russland (alles) und Iran (Press TV) von den E
 - [ 1.1 Satellitenbeschreibung ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-description)
 - [ 1.2 Dish und LNB ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-and-lnb)
 - [ 1.3 Footprint ](https://github.com/happysat/Express-AM8/blob/main/README.md#footprint)
-- [ 1.4 Dish Align to Express AM8 ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-align-to-express-am8)
+- [ 1.4 Ausrichtung Satellitenschüssel ](https://github.com/happysat/Express-AM8/blob/main/README.md#Ausrichtung-Satellitenschüssel)
 - [ 1.5 Transponder und Frequenzen ](https://github.com/happysat/Express-AM8/blob/main/README.md#telemetry-transponders-and-beacon-frequencies)
 - [ 1.6 T2-MI Technologie ](https://github.com/happysat/Express-AM8/blob/main/README.md#t2-mi-technology)
 - [ 1.7 Satellitenempfänger ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-receivers)
@@ -95,7 +95,7 @@ Und Lateinamerika/Ostküste Nordamerikas Fix 3.<br>
 Europa, Afrika und der Nahe Osten sowie Lateinamerika und die Ostküste Nordamerikas.<br>
 Und die Nutzlast hat zwei L-Band-Transponder.<br>
 
-## Dish align to Express-AM8
+## Ausrichtung Satellitenschüssel
 
 Es gibt mehrere Möglichkeiten, Express-AM8 am Himmel zu finden:
 
@@ -333,4 +333,4 @@ Dieser Satellit und die Kanäle, die seine Inhalte übertragen, werden von RSCC 
 
 ## Autoren
 
-- [Express AM8 von Happysat](https://github.com/happysat/Express-AM8
+- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8)

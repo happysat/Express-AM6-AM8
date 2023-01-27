@@ -333,4 +333,4 @@ Dieser Satellit und die Kanäle, die seine Inhalte übertragen, werden von RSCC 
 
 ## Autoren
 
-- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8)
+- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8/edit/main/README_DE.md)

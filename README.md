@@ -260,8 +260,21 @@ Download 6 days of XMLTV EPG for:<br>
 
 [RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, POBEDA int, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rt.xmltv)<br>
 
+Updated every Sunday.<br>
 
 ## News and Updates
+
+27 January<br>
+
+A number of Transponders do indeed have more transmission power.<br>
+
+<img src="img/RT-Arab.jpg" alt="" width="525" height="292"><br>
+
+11541 H RT Arabic, Fix Ku2, 21 % / 3,40 dB.<br>
+
+<img src="img/Rossiya24.jpg" alt="" width="525" height="292"><br>
+
+The jamming continues, clearly visible on transponder B3 11025 H Rossiya 24 and RTR Planeta.<br>
 
 26 January<br>
 

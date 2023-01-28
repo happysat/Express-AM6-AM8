@@ -168,9 +168,9 @@ Well, there is plenty of choice in this area, it depends a bit on what you want 
 <img src="img/1-0-1-1-14-1-D842-D76-0-0-0.jpg" alt="" width="640" height="360"><br>
 
 A lot is already possible to see with a normal HD receiver and it does not have to be new state of the art.<br>
-Off course for the T2-MI Multiplexes to show, one need a new generation receiver or TBS DVB-S Card is recommended.<br>
-
 Off course for the T2-MI Multiplexes to show, one need a new generation receiver or <a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
+
+<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5930_1.jpg" alt="" width="350" height="300" border="0"></a>
 
 Ci, softcam's or smart cards are not necessary because everything is broadcasting Free To Air.<br>
 This may change for the T2-MI Multiplexes in the future.<br>
@@ -263,12 +263,14 @@ Download 6 days of XMLTV EPG for:<br>
 
 ## News and Updates
 
-26/27 January<br>
+26 January<br>
 
 <img src="img/RT_Int.jpg" alt="" width="542" height="299"><br>
 
 Jamming signal on RT and almost all other Russian transponders.<br>
-Some Transponders are showing increased signals levels then usual.
+Some Transponders are showing increased signals levels then usual.<br>
+
+T2-MI Transponder on 11647 Off.
 
 25 January<br>
 

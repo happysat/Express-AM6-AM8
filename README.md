@@ -130,7 +130,7 @@ alt="RT" width="240" height="180" border="10" /></a>
 
 Telemetry and Beacon Frequencies:<br>
 
-<img src="img/Telemetry.jpg" alt="" width="525" height="292"><br>
+<img src="img/telemetry.jpg" alt="" width="525" height="292"><br>
 
 11199.50 GHz R (Global).<br>
 <br>

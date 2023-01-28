@@ -129,8 +129,10 @@ alt="RT" width="240" height="180" border="10" /></a>
 <a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM8.pdf" target="_blank"><img src="img/freq-plan.jpg" alt="" width="741" height="645" border="0"></a>
 
 Telemetry and Beacon Frequencies:<br>
-<a href="http://frequencyplansatellites.altervista.org/Beacon-Telemetry_Atlantic/Express_AM8.html" target="_blank">3405,10 R (Global or Omni) / 3850,00 R
-(Global) / 3850,50 L (Global) / 11199,50 R (Global).</a><br>
+
+<img src="img/Telemetry.jpg" alt="" width="525" height="292"><br>
+
+11199.50 GHz R (Global).<br>
 <br>
 <br>
 [Up2date Express AM8 Transponder.ini file](https://github.com/happysat/Express-AM8/blob/main/3460.ini)<br>

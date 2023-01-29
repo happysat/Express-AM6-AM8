@@ -363,6 +363,15 @@ A New Year's address by Ukrainian President V. Selensky was shortly broadcast in
 
 <img src="img/1_0_1_B_5_0_D84AD7F_0_0_0_202301.jpg" alt="" width="516" height="289"><br>
 
+21 July 2022<br>
+<a href="https://eng.rscc.ru/press/satellite-being-born-siberia-rscc-signs-contract-r/">Express AM4 launch is planned in 2026.</a><br>
+
+It will occupy the slot at 11°W on geostationary orbit and will also reserve 14°W.<br>
+The satellite will be delivered in orbit by Khrunichev Space Center using the Proton launch vehicle.<br>
+
+Equipped with a 63 active transponders at a payload power of 14 kW for its planned 15-year service life in orbit.<br> 
+Its ten antennas will provide high performance coverage over the Russian Federation and the CIS countries and its steerable antennas can be used to provide communication to any point within the satellite's visibility.<br>
+
 ## Disclaimer
 
 This website is for educational purpose only.<br>

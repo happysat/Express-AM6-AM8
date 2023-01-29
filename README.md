@@ -242,11 +242,11 @@ Software DVB-S Demodulator
 <img src="img/Etihad.jpg" alt="" width="525" height="292"><br>
 
 The demodulator works with RTL-SDR, Airspy, HackRF, SDRplay and PlutoSDR.<br>
-It can demodulate DVB-S and S2 signals with very low symbolrate.<br>
+It can demodulate DVB-S and S2 signals with very low symbolrate, but not above 2000 ks.<br>
 
 [More about Software DVB-S Demodulator Overhere.](https://github.com/happysat/Es-Hail-2-Oscar-100#software-dvb-s-demodulator)<br>
 
-[And howto connect on SDR on LNB Ouput.](https://github.com/happysat/Es-Hail-2-Oscar-100#bias-tee)<br>
+[And setup SDR on LNB Ouput.](https://github.com/happysat/Es-Hail-2-Oscar-100#bias-tee)<br>
 
 <img src="img/demoneditor.jpg" alt="" width="611" height="348"><br>
 <a href="https://github.com/DYefremov/DemonEditor" target="_blank">DemonEditor</a><br>

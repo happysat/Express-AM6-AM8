@@ -356,6 +356,6 @@ The European Union labels alternative news sources on this satellite as propagan
 Residents of the European Union are allowed to view this content, but may not live distribute it.<br>
 This satellite and it contents broadcasting channels are controlled by RSCC (Russian Satellite Communications Company).
 
-## Authors
+## Author
 
 - [Express AM8 by Happysat](https://github.com/happysat/Express-AM8)

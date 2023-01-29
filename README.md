@@ -9,7 +9,7 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
           
 ## Appendix
 
-- [ 1.0 TV and Radio Channels ](https://github.com/happysat/Express-AM8/edit/main/README.md#tvradio-channels)
+- [ 1.0 TV and Radio Channels ](https://github.com/happysat/Express-AM8/blob/main/README.md#tvradio-channels)
 - [ 1.1 Satellite Description ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-description)
 - [ 1.2 Dish and LNB ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-and-lnb)
 - [ 1.3 Footprint ](https://github.com/happysat/Express-AM8/blob/main/README.md#footprint)

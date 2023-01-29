@@ -210,18 +210,27 @@ blind scanning, signalInfo, constellations and many more options.<br>
 
 ## Codecs, Players, Streaming Software
 
+Software DVB-S Demodulator
+
+<img src="img/Etihad.jpg" alt="" width="525" height="292"><br>
+
+The demodulator works with RTL-SDR, Airspy, HackRF, SDRplay and PlutoSDR.<br>
+It can demodulate DVB-S and S2 signals with very low symbolrate.<br>
+
+[More about Software DVB-S Demodulator Overhere.](https://github.com/happysat/Es-Hail-2-Oscar-100#software-dvb-s-demodulator)<br>
+
+[And howto connect on SDR on LNB Ouput.](https://github.com/happysat/Es-Hail-2-Oscar-100#bias-tee)<br>
+
 <img src="img/demoneditor.jpg" alt="" width="611" height="348"><br>
 <a href="https://github.com/DYefremov/DemonEditor" target="_blank">DemonEditor</a><br>
 
 Enigma2 channel and satellite list editor for Windows and Linux.<br>
 
 Main features of the program:<br>
+
 Editing bouquets, channels, satellites, Import/Backup function, Support of picons.<br>
 Export of bouquets with IPTV services in m3u.<br>
-
-Assignment of EPG from DVB or XML for IPTV services (Enigma2 only).<br>
-Playback of IPTV or other streams directly from the bouquet list.<br>
-Ability to view EPG and manage timers (via HTTP API).<br>
+Assignment of EPG from DVB or XML for IPTV services, Playback of IPTV or other streams.<br>
 
 <img src="img/mpv.jpg" alt="" width="641" height="384"><br>
 <a href="https://mpv.io/">Mpv</a>

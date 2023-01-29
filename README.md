@@ -9,6 +9,7 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
           
 ## Appendix
 
+- [ 1.0 TV and Radio Channels ](https://github.com/happysat/Express-AM8/edit/main/README.md#tvradio-channels)
 - [ 1.1 Satellite Description ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-description)
 - [ 1.2 Dish and LNB ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-and-lnb)
 - [ 1.3 Footprint ](https://github.com/happysat/Express-AM8/blob/main/README.md#footprint)
@@ -21,6 +22,21 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
 - [ 2.0 Electronic Program Guide XMLTV](https://github.com/happysat/Express-AM8/blob/main/README.md#electronic-program-guide-xmltv)
 - [ 2.1 News and Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
 - [ 2.2 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
+
+## TV and Radio Channels
+The following TV and Radio channels are broadcasted in DVB-S(2) HD thru Express-AM8:
+
+Russian: Rossiya 24, RTR Planeta, NTV Mir, Perivy Kanal, Podeba, Karusel, Radio Sputnik.<br>
+
+Belarus: Belarus 24 HD, Radio Belarus Int.<br>
+
+RT Int., RT Deutsch, RT France, RT Espanol, RT Arabic.<br>
+
+Iran: Irib TV 1, Sahar TV Bosnian/Azari, Press TV HD, Hispan TV, iFilm, Al Alam TV.<br>
+
+Syria: Syria Sat Ch., Syria Sport 24, Syria 1, Syria News, Syria Drama, Sakaker Kids.<br>
+
+Lebanon: Etihad TV, Al Manar TV, Al Nour Radio.<br>
 
 ## Satellite Description
 
@@ -46,7 +62,6 @@ Which makes this a interesting exotic "DX" satellite with trans-atlantic coverag
 
 The satellite transponders are also regularly hacked or disrupted by jamming signals.<br>
 This is no unique case and it did happen at Eutelsat Hotbird Position (and a number of other satellites) also.<br>
-
 
 ## Dish and LNB
 

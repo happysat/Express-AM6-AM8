@@ -190,6 +190,8 @@ Express AM8 has a few T2-MI transponders.<br>
 
 Broadcasting channels to DVB-T2 Multiplexes in Ukraine.
 
+Update T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East!
+
 ## Satellite Receivers
 
 Well, there is plenty of choice in this area, it depends a bit on what you want to see.<br>
@@ -304,6 +306,11 @@ Rename .txt to .xml<br>
 Updated every 24h.<br>
 
 ## News and Updates
+
+30 January<br>
+
+T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East.
+The channels in T2-MI were originally intended for DTV-T2 terrestrial broadcasting in Novorossia.
 
 27 January<br>
 

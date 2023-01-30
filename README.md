@@ -292,13 +292,13 @@ Also in the seperate Guides
 <img src="img/epg2.jpg" alt="" width="694" height="498"><br>
 
 
-Download 6 days of XMLTV EPG for:<br>
+Download XMLTV EPG for:<br>
 
 [RT Germany](https://github.com/happysat/Express-AM8/blob/main/rt_de.xmltv)<br>
 
-[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, POBEDA int, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rt.xmltv)<br>
+[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Karusel, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rus.xmltv)<br>
 
-Updated every Sunday.<br>
+Updated every 24h.<br>
 
 ## News and Updates
 

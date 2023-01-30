@@ -295,6 +295,7 @@ Also in the seperate Guides
 Download XMLTV EPG for:<br>
 
 Right click the Raw button at the top of the file, select Save Link As.<br>
+Rename .txt to .xml<br>
 
 [RT Germany](https://github.com/happysat/Express-AM8/blob/main/rt_de.xml)<br>
 

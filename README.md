@@ -309,7 +309,7 @@ Updated every 24h.<br>
 30 January<br>
 
 T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East.<br>
-The channels in T2-MI were originally intended for DTV-T2 terrestrial broadcasting in Novorossia.<br>
+The channels in T2-MI were originally intended for DVB-T2 terrestrial broadcasting in Novorossia.<br>
 
 27 January<br>
 

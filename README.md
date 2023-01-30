@@ -182,15 +182,14 @@ which then transmit terrestrial digital television for TVs or DVB-T2 receivers.<
 That is, the channel packages in T2MI were not originally intended to be received by domestic satellite receivers. <br>
 But with the development of processors for satellite receivers capable of processing them, it became possible to receive these TV channels at home on a regular home satellite receiver.<br>
 
-<img src="img/T2-MI_2.jpg" alt="" width="640" height="440"><br>
+Update T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East!<br>
 
-Express AM8 has a few T2-MI transponders.<br>
+Express AM8 did have a few T2-MI transponders.<br>
 
 <img src="img/T2-MI.jpg" alt="" width="508" height="306"><br>
 
 Broadcasting channels to DVB-T2 Multiplexes in Ukraine.
 
-Update T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East!
 
 ## Satellite Receivers
 
@@ -309,8 +308,8 @@ Updated every 24h.<br>
 
 30 January<br>
 
-T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East.
-The channels in T2-MI were originally intended for DTV-T2 terrestrial broadcasting in Novorossia.
+T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East.<br>
+The channels in T2-MI were originally intended for DTV-T2 terrestrial broadcasting in Novorossia.<br>
 
 27 January<br>
 

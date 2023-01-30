@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Happysat">
 <channel id="RT DE"><display-name>RT DE</display-name></channel>
-<programme start="20230129000000 +0000" stop="20230129003000 +0000" channel="RT DE">
-<title lang="de">Documentary</title><desc lang="de">Unsere Dokumentationen beleuchten verschiedene Aspekte des Lebens. Von Nachrichten und Politikbis hin zu Kultur, Traditionen, Küche, der Tierwelt und Reisen. In einer sich rasant entwickelnden Welt und damit verbundenen gesellschaftlichen Umbrüchen sieht RT DE sich als Stimme des Pragmatismus und Rationalismus. Diese Einstellung prägt auch unsere Dokumentationen.</desc></programme>
-<programme start="20230129003000 +0000" stop="20230129010000 +0000" channel="RT DE">
-<title lang="de">Documentary</title><desc lang="de">Unsere Dokumentationen beleuchten verschiedene Aspekte des Lebens. Von Nachrichten und Politikbis hin zu Kultur, Traditionen, Küche, der Tierwelt und Reisen. In einer sich rasant entwickelnden Welt und damit verbundenen gesellschaftlichen Umbrüchen sieht RT DE sich als Stimme des Pragmatismus und Rationalismus. Diese Einstellung prägt auch unsere Dokumentationen.</desc></programme>
 <programme start="20230129010000 +0000" stop="20230129013000 +0000" channel="RT DE">
 <title lang="de">Documentary</title><desc lang="de">Unsere Dokumentationen beleuchten verschiedene Aspekte des Lebens. Von Nachrichten und Politikbis hin zu Kultur, Traditionen, Küche, der Tierwelt und Reisen. In einer sich rasant entwickelnden Welt und damit verbundenen gesellschaftlichen Umbrüchen sieht RT DE sich als Stimme des Pragmatismus und Rationalismus. Diese Einstellung prägt auch unsere Dokumentationen.</desc></programme>
 <programme start="20230129013000 +0000" stop="20230129020000 +0000" channel="RT DE">

@@ -294,9 +294,11 @@ Also in the seperate Guides
 
 Download XMLTV EPG for:<br>
 
-[RT Germany](https://github.com/happysat/Express-AM8/blob/main/rt_de.xmltv)<br>
+Right click the Raw button at the top of the file, select Save Link As.<br>
 
-[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Karusel, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rus.xmltv)<br>
+[RT Germany](https://github.com/happysat/Express-AM8/blob/main/rt_de.xml)<br>
+
+[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Karusel, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rus.xml)<br>
 
 Updated every 24h.<br>
 

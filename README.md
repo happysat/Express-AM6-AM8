@@ -19,9 +19,8 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
 - [ 1.7 Satellite Receivers ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-receivers)
 - [ 1.8 DVB-S Card Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#dvb-s-card-software)
 - [ 1.9 Codecs, Players, Streaming Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#codecs-players-streaming-software)
-- [ 2.0 Electronic Program Guide XMLTV](https://github.com/happysat/Express-AM8/blob/main/README.md#electronic-program-guide-xmltv)
-- [ 2.1 News and Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
-- [ 2.2 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
+- [ 2.0 News and Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
+- [ 2.1 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
 
 ## TV and Radio Channels
 The following TV and Radio channels are broadcasted in DVB-S(2) HD thru Express-AM8:
@@ -272,36 +271,6 @@ Which will allow you to play virtually any format in a DirectShow player.<br>
 
 <a href="http://madvr.com/">madVR</a> is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.<br>
 Designed as a no-compromise approach, madVR delivers the ultimate video playback quality that no enthusiast should be without.<br>
-          
-## Electronic Program Guide XMLTV
-
-TV Channels on Express AM8 are not broadcasting Electronic Program Guide Data.<br>
-It is possible to import EPG data yourself in XMLTV format.<br>
-
-The enigma2 based receivers are having the rytec plugin in their image feed for importing epg data.<br>
-
-<img src="img/xmltv.jpg" alt="" width="694" height="498"><br>
-
-DVB-S card software including Smartdvb can import XMLTV so that an epg guide can be seen for the TV channels of Express AM8.<br>
-
-<img src="img/epg3.jpg" alt="" width="694" height="498"><br>
-
-Also in the seperate Guides
-
-<img src="img/epg.jpg" alt="" width="694" height="498"><br>
-
-<img src="img/epg2.jpg" alt="" width="694" height="498"><br>
-
-
-Download XMLTV EPG for:<br>
-
-Right click the Raw button at the top of the file, select Save Link As.<br>
-Rename .txt to .xml<br>
-
-[RT Germany](https://github.com/happysat/Express-AM8/blob/main/rt_de.xml)<br>
-
-[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Karusel, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rus.xml)<br>
-
 
 ## News and Updates
 

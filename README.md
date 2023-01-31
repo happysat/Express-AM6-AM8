@@ -302,7 +302,6 @@ Rename .txt to .xml<br>
 
 [RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Karusel, RTR-Planeta Evropa and Belarus24 HD.](https://github.com/happysat/Express-AM8/blob/main/rus.xml)<br>
 
-Updated every 24h.<br>
 
 ## News and Updates
 

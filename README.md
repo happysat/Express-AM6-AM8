@@ -274,6 +274,16 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+1 Febuary<br>
+
+<img src="img/Dom_kino.jpg" alt="" width="525" height="292"><br>
+
+11623 1TVRus replaced by Dom Kino.<br>
+
+<img src="img/1tvg" alt="" width="525" height="292"><br>
+
+11653 Pobeda replaced by 1TVRus.<br>
+
 30 January<br>
 
 T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East.<br>

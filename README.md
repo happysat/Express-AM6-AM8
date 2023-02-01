@@ -280,7 +280,7 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 11623 1TVRus replaced by Dom Kino.<br>
 
-<img src="img/1tvg" alt="" width="525" height="292"><br>
+<img src="img/1tv.jpg" alt="" width="525" height="292"><br>
 
 11653 Pobeda replaced by 1TVRus.<br>
 

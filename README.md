@@ -197,9 +197,7 @@ Well, there is plenty of choice in this area, it depends a bit on what you want 
 <img src="img/1-0-1-1-14-1-D842-D76-0-0-0.jpg" alt="" width="640" height="360"><br>
 
 A lot is already possible to see with a normal HD receiver and it does not have to be new state of the art.<br>
-Off course for the T2-MI Multiplexes to show, one need a new generation receiver or <a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
-
-<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5930_1.jpg" alt="" width="350" height="300" border="0"></a>
+Off course for the T2-MI Multiplexes to show, one need a new generation receiver or DVB-S Card.<br>
 
 Ci, softcam's or smart cards are not necessary because everything is broadcasting Free To Air.<br>
 This may change for the T2-MI Multiplexes in the future.<br>
@@ -208,7 +206,7 @@ Receivers in use on my setup are:<br>
 
 Dreambox 800se <a href="https://github.com/jack2015/openpli-dreambox-oe-core" target="_blank">OpenPLI 12.2</a><br>
 VuSolo2 <a href="http://images.mynonpublic.com/openatv/7.1/index.php?open=vusolo" target="_blank">Open-ATV</a><br>
-<a href="https://www.tbsdtv.com/" target="_blank">TBS Q-Box2</a>.<br>
+TBS Q-Box2.<br>
 
 ## DVB-S Card Software
 

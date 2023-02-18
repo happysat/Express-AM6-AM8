@@ -32,7 +32,7 @@ RT Int., RT Deutsch, RT France, RT Espanol, RT Arabic.<br>
 
 <img src="/img/Rossia-24.jpg">
 
-Russian: Rossiya 24, RTR Planeta, NTV Mir, Perivy Kanal, Podeba, Karusel, Radio Sputnik.<br>
+Russian: Rossiya 24, RTR Planeta, NTV Mir, Perivy Kanal, Dom Kino, Karusel, Radio Sputnik.<br>
 
 <img src="/img/Belarus.jpg">
 

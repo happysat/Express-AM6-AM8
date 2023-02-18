@@ -328,6 +328,12 @@ RT Arabic is named as Synterra on the eu beam (fixed 1) and also available on th
 
 11671 H Radio 01 / 07 World Service added.
 
+6 Febuary<br>
+
+<a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Altitude statistics</a> from Express AM8 showing a significant difference in elevation.<br>
+
+Which coincides with the February 6th earthquake event, some experts telling planets in the solar system were in constellations which maybe did affected geostationary satellites..?<br>
+
 3 Febuary<br>
 
 News channel Russia Today Deutschland (RT-DE), already subject to sanctions within the European Union since last year has ceased all journalistic activities of RT Germany in the country.<br>

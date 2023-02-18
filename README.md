@@ -182,14 +182,13 @@ which then transmit terrestrial digital television for TVs or DVB-T2 receivers.<
 That is, the channel packages in T2MI were not originally intended to be received by domestic satellite receivers. <br>
 But with the development of processors for satellite receivers capable of processing them, it became possible to receive these TV channels at home on a regular home satellite receiver.<br>
 
-Update T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East!<br>
-
 Express AM8 did have a few T2-MI transponders.<br>
 
 <img src="img/T2-MI.jpg" alt="" width="508" height="306"><br>
 
 Broadcasting channels to DVB-T2 Multiplexes in Ukraine.
 
+Update T2-MI Multistreams with the Russian package appear to have completely migrated to the Express AM6 53° East!<br>
 
 ## Satellite Receivers
 
@@ -198,12 +197,13 @@ Well, there is plenty of choice in this area, it depends a bit on what you want 
 <img src="img/1-0-1-1-14-1-D842-D76-0-0-0.jpg" alt="" width="640" height="360"><br>
 
 A lot is already possible to see with a normal HD receiver and it does not have to be new state of the art.<br>
-Off course for the T2-MI Multiplexes to show, one need a new generation receiver or <a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
+Ci, softcam's or smart cards are not necessary because everything is broadcasting Free To Air.<br>
+
+Off course for the T2-MI Multiplexes to show, one need a new generation receiver or a better solution<a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
 
 <a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5930_1.jpg" alt="" width="350" height="300" border="0"></a>
 
-Ci, softcam's or smart cards are not necessary because everything is broadcasting Free To Air.<br>
-This may change for the T2-MI Multiplexes in the future.<br>
+Advantages are analyzing streams, faster blindscanning, wide software choice (viewers/headends), multipule platform support Linux/Windwows/ARM, media features Kodi, adding  second tuner in engima2 based recievers.<br>
 
 Receivers in use on my setup are:<br>
 

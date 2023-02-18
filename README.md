@@ -199,11 +199,14 @@ Well, there is plenty of choice in this area, it depends a bit on what you want 
 A lot is already possible to see with a normal HD receiver and it does not have to be new state of the art.<br>
 Ci, softcam's or smart cards are not necessary because everything is broadcasting Free To Air.<br>
 
-Off course for the T2-MI Multiplexes to show, one need a new generation receiver or a better solution<a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
+Off course for the T2-MI Multiplexes to show or even more, one need a new generation receiver or even better a <a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
 
-<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5930_1.jpg" alt="" width="350" height="300" border="0"></a>
+<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/5530.jpg" alt="" width="350" height="300" border="0"></a>
 
-Advantages are analyzing streams, faster blindscanning, wide software choice (viewers/headends), multipule platform support Linux/Windwows/ARM, media features Kodi, adding  second tuner in engima2 based recievers.<br>
+Capable of receiving digital TV channels of multiple standards: DVB-S2X/S2/S/DVB-T2/C2/T/C(J.83 A/B/C)/ISDB-T/C/ATSC1.0<br> 
+Also supporting CCM, VCM and Multi Input Streams.<br>
+
+Advantages are analyzing streams, faster blindscanning, wide software choice (viewers/headends), multipule platform support Linux/Windwows/ARM, media features Kodi, adding second tuners in engima2 based recievers.<br>
 
 Receivers in use on my setup are:<br>
 

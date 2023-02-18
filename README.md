@@ -141,7 +141,7 @@ And try to tune for the strongest transponder <a href="https://en.kingofsat.net/
 
 If not working try Telstar on 15 West, strong Transponder with 1 FTA channel on <a href="https://en.kingofsat.net/tp.php?tp=1086" target="_blank">11377 V DVB-S2 QPSK 8750 3/5.</a><br>
 
-<img src="img/MTN_Info" alt="" width="542" height="299"><br>
+<img src="img/MTN_Info.jpg" alt="" width="542" height="299"><br>
 
 When it works and fine tuned for enough signal move the dish to 14 west, it should be a small adjustment.<br>
 

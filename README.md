@@ -137,6 +137,15 @@ alt="LNB Skew" width="240" height="180" border="10" /></a>
 Take into account the skew settings of the LNB!<br>
 Dish Pointer website list the skew values for Express AM8 below the image of your selected location.<br>
 
+And try to tune for the strongest transponder <a href="https://en.kingofsat.net/tp.php?tp=12861" target="_blank">11623 V DVB-S2 8PSK 7347 3/4.</a><br>
+
+If not working try Telstar on 15 West, strong Transponder with 1 FTA channel on <a href="https://en.kingofsat.net/tp.php?tp=1086" target="_blank">11377 V DVB-S2 QPSK 8750 3/5.</a><br>
+
+<img src="img/MTN_Info" alt="" width="542" height="299"><br>
+
+When it works and fine tuned for enough signal move the dish to 14 west, it should be a small adjustment.<br>
+
+
 Or the program <a href="http://www.al-soft.com/saa/satinfo.shtml" target="_blank">Satellite Antenna Alignment 4.0</a><br>
 For Dish alignment and many more options.<br>
 
@@ -308,9 +317,25 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+15 Febuary<br>
+
+The European Union may ban RT Arabic on its territory as part of new anti-Russian sanctions.<br>
+
+On Hotbird the channel is allready showing black screen, transmissions will continu offcourse on Express AM8.<br>
+RT Arabic is named as Synterra on the eu beam (fixed 1) and also available on the fixed 2 beam in the middle east.<br>
+
 9 Febuary<br>
 
 11671 H Radio 01 / 07 World Service added.
+
+3 Febuary<br>
+
+News channel Russia Today Deutschland (RT-DE), already subject to sanctions within the European Union since last year has ceased all journalistic activities of RT Germany in the country.<br>
+
+Last month, RT did the same in France.<br>
+
+It does not mean that there is no more RT programming aimed at France or Germany.<br>
+RT now broadcasts outside the EU and continues to transmit at 14 degrees west.<br>
 
 1 Febuary<br>
 

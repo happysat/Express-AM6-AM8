@@ -303,11 +303,11 @@ Also in the seperate Guides
 <img src="img/epg2.jpg" alt="" width="694" height="498"><br>
 
 
-Download (right click save as, and rename txt to xml!) XMLTV EPG for:<br>
+Download (right click save as) XMLTV EPG for:<br>
 
-[RT Germany](https://raw.githubusercontent.com/happysat/Express-AM8/main/rt_de.xml)<br>
+[RT Germany](https://happysat.nl/xmltv/rt_de.xml)<br>
 
-[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Dom Kino, RTR-Planeta Europa and Belarus24 HD.](https://raw.githubusercontent.com/happysat/Express-AM8/main/rus.xml)<br>
+[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Dom Kino, RTR-Planeta Europa and Belarus24 HD.](https://happysat.nl/xmltv/rt.xml)<br>
 
 Updated every 7 Days.<br>
 

@@ -452,4 +452,4 @@ This satellite and it contents broadcasting channels are controlled by RSCC (Rus
 
 ## Author
 
-- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8/blob/main/README_DE.md)
+- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8/)

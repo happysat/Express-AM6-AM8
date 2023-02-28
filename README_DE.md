@@ -445,4 +445,4 @@ Dieser Satellit und seine Inhaltsübertragungskanäle werden von RSCC (Russian S
 
 ## Autor
 
-- [Express AM8 von Happysat](https://github.com/happysat/Express-AM8)
+- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8/blob/main/README_DE.md)

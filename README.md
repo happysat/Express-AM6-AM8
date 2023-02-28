@@ -221,7 +221,7 @@ Receivers in use on my setup are:<br>
 
 Dreambox 800se <a href="https://github.com/jack2015/openpli-dreambox-oe-core" target="_blank">OpenPLI 12.2</a><br>
 VuSolo2 <a href="http://images.mynonpublic.com/openatv/7.1/index.php?open=vusolo" target="_blank">Open-ATV</a><br>
-<a href="https://www.tbsdtv.com/" target="_blank">TBS Q-Box2</a>.<br>
+<a href="https://www.tbsdtv.com/" target="_blank">TBS5530</a>.<br>
 
 ## DVB-S Card Software
 

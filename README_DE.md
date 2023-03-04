@@ -105,7 +105,7 @@ Inverto Twin (PLL) LNB.<br>
 
 ## Footprint
 
-Express AM8 trägt 12 Ku-Band-Transponder mit drei Footprints:
+Express AM8 trägt 12 Ku-Band Transponder Linear 12x36 MHz; 4x54 MHz (150W) mit drei Footprints:
 
 <img src="img/express-am8-ku-band-fix1.jpg" alt="" width="567" height="405">
 
@@ -114,9 +114,9 @@ Europa/Naher Osten Fixed 1
 <img src="img/express-am8-ku-band-fix2.jpg" alt="" width="564" height="533">
 
 Afrika/Naher Osten Fixed 2.<br>
-Und Lateinamerika/Ostküste Nordamerikas Fest 3.<br>
+Und Lateinamerika/Ostküste Nordamerikas Fixed 3.<br>
 
-24 C-Band Transponder mit Abdeckung von zwei Footprints:
+24 C-Band Transponder Circular 24x40 MHz (100W) mit Abdeckung von zwei Footprints:
 
 Europa, Afrika und der Nahe Osten sowie Lateinamerika und die Ostküste Nordamerikas.<br>
 Und die Nutzlast hat zwei L-Band-Transponder.<br>
@@ -221,7 +221,7 @@ In meinem Setup verwendete Empfänger sind:<br>
 
 Dreambox 800se <a href="https://github.com/jack2015/openpli-dreambox-oe-core" target="_blank">OpenPLI 12.2</a><br>
 VuSolo2 <a href="http://images.mynonpublic.com/openatv/7.1/index.php?open=vusolo" target="_blank">Open-ATV</a><br>
-<a href="https://www.tbsdtv.com/" target="_blank">TBS5530</a>.<br>
+<a href="https://www.tbsiptv.com/tbs5530-multi-standard-universal-tv-tuner-usb-card" target="_blank">TBS5530</a>.<br>
 
 ## DVB-S-Kartensoftware
 

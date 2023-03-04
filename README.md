@@ -210,7 +210,7 @@ Ci, softcam's or smart cards are not necessary because everything is broadcastin
 
 Off course for the T2-MI Multiplexes to show or even more, one need a new generation receiver or even better a <a href="https://www.tbsdtv.com/">TBS DVB-S Card</a> is recommended.<br>
 
-<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/5530.jpg" alt="" width="350" height="300" border="0"></a>
+<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5530_1.jpg" alt="" width="350" height="300" border="0"></a>
 
 Capable of receiving digital TV channels of multiple standards: DVB-S2X/S2/S/DVB-T2/C2/T/C(J.83 A/B/C)/ISDB-T/C/ATSC1.0<br> 
 Also supporting CCM, VCM and Multi Input Streams.<br>

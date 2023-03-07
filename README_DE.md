@@ -317,6 +317,10 @@ Gehen Sie zum Menü „Tools/Einstellungen“ für den EPG-Import.<br>
 
 ## Neuigkeiten und Aktualisierungen
 
+6 März.<br>
+
+Transponder: 11671 H 16600 DVB-S2/8PSK 3/5 IRIB Geänderte SID.<br>
+
 15 Februar<br>
 
 Die Europäische Union kann RT Arabic im Rahmen neuer antirussischer Sanktionen auf ihrem Territorium verbieten.<br>

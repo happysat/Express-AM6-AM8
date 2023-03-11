@@ -323,7 +323,7 @@ Pretty much all Transponders are affected by jamming except the Syrian mux and A
 
 <img src="img/1TVRus_11.03.jpg" alt="" width="525" height="292"><br>
 
-1TVRus is suffering from interupption hacks<br> 
+1TVRus is suffering from interuption hacks.<br> 
 
 10 March<br>
 

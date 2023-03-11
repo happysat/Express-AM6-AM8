@@ -9,19 +9,19 @@ Die aufgrund von Sanktionen gegen Russland (alle sender) und den Iran (Press TV)
           
 ## Anhang
 
-- [1.0 TV- und Radiokanäle](https://github.com/happysat/Express-AM8/blob/main/README.md#tv-and-radio-channels)
-- [1.1 Satellitenbeschreibung ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-description)
-- [1.2 Schüssel und LNB](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-and-lnb)
-- [1.3 Footprint](https://github.com/happysat/Express-AM8/blob/main/README.md#footprint)
-- [1.4 Schüssel an Express AM8 ausrichten ](https://github.com/happysat/Express-AM8/blob/main/README.md#dish-align-to-express-am8)
-- [1.5 Transponder und Frequenzen ](https://github.com/happysat/Express-AM8/blob/main/README.md#telemetry-transponders-and-beacon-frequencies)
-- [1.6 T2-MI-Technologie](https://github.com/happysat/Express-AM8/blob/main/README.md#t2-mi-technology)
-- [1.7 Satellitenempfänger](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-receivers)
-- [1.8 DVB-S-Kartensoftware](https://github.com/happysat/Express-AM8/blob/main/README.md#dvb-s-card-software)
-- [1.9 Codecs, Player, Streaming-Software](https://github.com/happysat/Express-AM8/blob/main/README.md#codecs-players-streaming-software)
-- [2.0 Elektronischer Programmführer XMLTV](https://github.com/happysat/Express-AM8/blob/main/README.md#electronic-program-guide-xmltv)
-- [2.1 Neuigkeiten und Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
-- [2.2 Haftungsausschluss ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
+- [1.0 TV- und Radiokanäle](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#tv--und-radiokan%C3%A4le)
+- [1.1 Satellitenbeschreibung ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#satellitenbeschreibung)
+- [1.2 Schüssel und LNB](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#sch%C3%BCssel-und-lnb)
+- [1.3 Footprint](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#footprint)
+- [1.4 Schüssel an Express AM8 ausrichten ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#sch%C3%BCssel-auf-express-am8-ausrichten)
+- [1.5 Transponder und Frequenzen ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#telemetrie-transponder-und-beacon-frequenzen)
+- [1.6 T2-MI-Technologie](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#t2-mi-technologie)
+- [1.7 Satellitenempfänger](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#satellitenempf%C3%A4nger)
+- [1.8 DVB-S-Kartensoftware](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#dvb-s-kartensoftware)
+- [1.9 Codecs, Player, Streaming-Software](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#codecs-player-streaming-software)
+- [2.0 Elektronischer Programmführer XMLTV](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#elektronischer-programmf%C3%BChrer-xmltv)
+- [2.1 Neuigkeiten und Updates ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#neuigkeiten-und-aktualisierungen)
+- [2.2 Haftungsausschluss ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#haftungsausschluss)
 
 ## TV- und Radiokanäle
 Die folgenden Fernseh- und Radiosender werden in DVB-S(2) HD über Express-AM8 ausgestrahlt:
@@ -210,7 +210,7 @@ Ci, Softcams oder Smartcards sind nicht erforderlich, da alles Free To Air ausge
 
 Damit die T2-MI Multiplexe oder noch mehr gezeigt werden können, benötigt man natürlich einen Receiver der neuen Generation oder noch besser eine <a href="https://www.tbsdtv.com/">TBS DVB-S Karte</a> wird empfohlen.<br>
 
-<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/5530.jpg" alt="" width="350" height="300" border= "0"></a>
+<a href="https://www.tbsdtv.com/products" target="_blank"><img src="img/tbs5530_1.jpg" alt="" width="350" height="300" border= "0"></a>
 
 Kann digitale TV-Kanäle mehrerer Standards empfangen: DVB-S2X/S2/S/DVB-T2/C2/T/C(J.83 A/B/C)/ISDB-T/C/ATSC1.0<br>
 Unterstützt auch CCM, VCM und Multi Input Streams.<br>

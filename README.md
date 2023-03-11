@@ -317,6 +317,14 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+11 March<br>
+
+Pretty much all Transponders are affected by jamming except the Syrian mux and Al Manar.<br> 
+
+<img src="img/1TVRus_11.03.jpg" alt="" width="525" height="292"><br>
+
+1TVRus is suffering from interupption hacks<br> 
+
 10 March<br>
 
 Signal Jamming every 30 seconds started again following TPs are affected: 11.653V (1TVRUS), 11.110H (NTVmir) und 11.025H (Rossiya24, RTR Planeta), 11638H (Belarus24).<br>

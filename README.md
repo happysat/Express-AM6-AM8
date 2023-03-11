@@ -317,6 +317,11 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+10 March<br>
+
+Signal Jamming every 30 seconds started again following TPs are affected: 11.653V (1TVRUS), 11.110H (NTVmir) und 11.025H (Rossiya24, RTR Planeta), 11638H (Belarus24).<br>
+1TVRus was hacked in the early morning 2x5 minute broadcasting reporting the "actual count" victims since the war started.<br> 
+
 6 March<br>
 
 Transponder: 11671 H 16600 DVB-S2/8PSK 3/5 IRIB SID Changed.<br>

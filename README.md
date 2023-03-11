@@ -320,6 +320,7 @@ Goto Tool/Settings menu for EPG import.<br>
 10 March<br>
 
 Signal Jamming every 30 seconds started again following TPs are affected: 11.653V (1TVRUS), 11.110H (NTVmir) und 11.025H (Rossiya24, RTR Planeta), 11638H (Belarus24).<br>
+<img src="img/IMG-20230310-091851.jpg" alt="" width="525" height="292"><br>
 1TVRus was hacked in the early morning 2x5 minute broadcasting reporting the "actual count" victims since the war started.<br> 
 
 6 March<br>

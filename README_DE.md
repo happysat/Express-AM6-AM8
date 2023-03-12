@@ -317,6 +317,10 @@ Gehen Sie zum Menü „Tools/Einstellungen“ für den EPG-Import.<br>
 
 ## Neuigkeiten und Aktualisierungen
 
+12 März<br>
+
+RT-Transponder ausgeschaltet, Jamming auf anderen Kanälen fortgesetzt.<br>
+
 11 März<br>
 
 So ziemlich alle Transponder sind von Störungen betroffen, außer dem syrischen Mux und Al Manar.<br>

@@ -317,6 +317,10 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+12 March<br>
+
+RT Transponder turned off, Jamming continues om other channels.
+
 11 March<br>
 
 Pretty much all Transponders are affected by jamming except the Syrian mux and Al Manar.<br> 

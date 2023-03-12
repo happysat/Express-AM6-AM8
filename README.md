@@ -319,7 +319,7 @@ Goto Tool/Settings menu for EPG import.<br>
 
 12 March<br>
 
-RT Transponder turned off, Jamming continues om other channels.
+RT Transponder turned off, Jamming continues on other channels.<br> 
 
 11 March<br>
 

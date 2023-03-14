@@ -317,6 +317,12 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+14 March<br>
+
+RT Transponder back on 11638 V 1/2 16574 RT Esp, RT Int, RT De and RT France<br>
+
+<img src="img/RTDe14.03.2023.jpg" alt="" width="525" height="292"><br>
+
 13 March<br>
 
 RT/1TVRus Transponder no signal.<br>

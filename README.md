@@ -317,6 +317,12 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+13 March<br>
+
+RT/1TVRus Transponder no signal.<br>
+NTV Mir, RT Eng, RT Fr, RT Esp, RT Arab, RT De, 1TVRUS Europe, RTR-Planeta Europe, Rossia 24, Belarus-24 HD and Radio Belarus,
+appeared on Express Am 6 53 East 11481 H 27500 1/2 DVB-S2..<br>
+
 12 March<br>
 
 RT Transponder turned off, Jamming continues on other channels.<br> 

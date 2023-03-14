@@ -324,6 +324,8 @@ RT/1TVRus Transponder no signal.<br>
 NTV Mir, RT Eng, RT Fr, RT Esp, RT Arab, RT De, 1TVRUS Europe, RTR-Planeta Europe, Rossia 24, Belarus-24 HD and Radio Belarus,
 appeared on Express AM 6 53 East TP: 11481 H 27500 1/2 DVB-S2.<br>
 
+Dom Kino, Karusel Int appeared on Express AM 6 12532 H 27500 1/2 DVB-S2.<br>
+
 12 March<br>
 
 RT Transponder turned off, Jamming continues on other channels.<br> 

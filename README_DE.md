@@ -317,6 +317,12 @@ Gehen Sie zum Menü „Tools/Einstellungen“ für den EPG-Import.<br>
 
 ## Neuigkeiten und Aktualisierungen
 
+14 März<br>
+
+RT Transponder zurruck auf 11638 V 1/2 16574 RT Esp, RT Int, RT De und RT France.<br>
+
+<img src="img/RTDe14.03.2023.jpg" alt="" width="525" height="292"><br>
+
 13 März<br>
 
 RT/1TVRus Transponder kein Signal.<br>

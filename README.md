@@ -317,6 +317,12 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+15 March<br>
+
+Dom Kino, Karusel Int and 1TVRus (showing moving screen to 53e) back on old TP.<br>
+
+<img src="img/TEST20230316-005732.jpg" alt="" width="525" height="292"><br>
+
 14 March<br>
 
 RT Transponder back on 11638 V 1/2 16574 RT Esp, RT Int, RT De and RT France<br>
@@ -325,7 +331,7 @@ RT Transponder back on 11638 V 1/2 16574 RT Esp, RT Int, RT De and RT France<br>
 
 13 March<br>
 
-RT/1TVRus Transponder no signal.<br>
+RT, 1TVRus, Dom Kino, Karusel Transponder no signal.<br>
 
 NTV Mir, RT Eng, RT Fr, RT Esp, RT Arab, RT De, 1TVRUS Europe, RTR-Planeta Europe, Rossia 24, Belarus-24 HD and Radio Belarus,
 appeared on Express AM 6 53 East TP: 11481 H 27500 1/2 DVB-S2.<br>

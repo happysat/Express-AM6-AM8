@@ -317,6 +317,12 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+17 March<br>
+
+The new and experimental frequency for the overseas TV channels of the Iranian Broadcasting Corporation's IRIB package was activated and several TV and radio stations began broadcasting on 11555V 30000 3/5.<br>
+
+<img src="img/IRIB.jpg" alt="" width="525" height="292"><br>
+
 15 March<br>
 
 Dom Kino, Karusel Int and 1TVRus (showing moving screen to 53e) back on old TP.<br>

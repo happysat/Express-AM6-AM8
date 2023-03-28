@@ -317,6 +317,10 @@ Gehen Sie zum Menü „Tools/Einstellungen“ für den EPG-Import.<br>
 
 ## Neuigkeiten und Aktualisierungen
 
+27 März<br>
+
+IRIB auf 11555V wieder weg.<br>
+
 17 März<br>
 
 Die neue und experimentelle Frequenz für die ausländischen Fernsehsender des IRIB-Pakets der Iranian Broadcasting Corporation wurde aktiviert und mehrere Fernseh- und Radiosender begannen mit der Ausstrahlung auf 11555V 30000 3/5.<br>

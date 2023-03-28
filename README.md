@@ -317,6 +317,10 @@ Goto Tool/Settings menu for EPG import.<br>
 
 ## News and Updates
 
+27 March<br>
+
+IRIB Left TP 11555V.<br>
+
 17 March<br>
 
 The new and experimental frequency for the overseas TV channels of the Iranian Broadcasting Corporation's IRIB package was activated and several TV and radio stations began broadcasting on 11555V 30000 3/5.<br>

@@ -19,9 +19,8 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
 - [ 1.7 Satellite Receivers ](https://github.com/happysat/Express-AM8/blob/main/README.md#satellite-receivers)
 - [ 1.8 DVB-S Card Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#dvb-s-card-software)
 - [ 1.9 Codecs, Players, Streaming Software ](https://github.com/happysat/Express-AM8/blob/main/README.md#codecs-players-streaming-software)
-- [ 2.0 Electronic Program Guide XMLTV](https://github.com/happysat/Express-AM8/blob/main/README.md#electronic-program-guide-xmltv)
-- [ 2.1 News and Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
-- [ 2.2 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
+- [ 2.0 News and Updates ](https://github.com/happysat/Express-AM8/blob/main/README.md#news-and-updates)
+- [ 2.1 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
 
 ## TV and Radio Channels
 The following TV and Radio channels are broadcasted in DVB-S(2) HD thru Express-AM8:
@@ -219,8 +218,6 @@ Advantages are analyzing streams, faster blindscanning, wide software choice (vi
 
 Receivers in use on my setup are:<br>
 
-Dreambox 800se <a href="https://github.com/jack2015/openpli-dreambox-oe-core" target="_blank">OpenPLI 12.2</a><br>
-VuSolo2 <a href="http://images.mynonpublic.com/openatv/7.1/index.php?open=vusolo" target="_blank">Open-ATV</a><br>
 <a href="https://www.tbsiptv.com/tbs5530-multi-standard-universal-tv-tuner-usb-card" target="_blank">TBS5530</a>.<br>
 
 ## DVB-S Card Software
@@ -285,37 +282,11 @@ Which will allow you to play virtually any format in a DirectShow player.<br>
 <a href="http://madvr.com/">madVR</a> is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.<br>
 Designed as a no-compromise approach, madVR delivers the ultimate video playback quality that no enthusiast should be without.<br>
 
-## Electronic Program Guide XMLTV
-
-TV Channels on Express AM8 are not broadcasting Electronic Program Guide Data.<br>
-However it is possible to import EPG data yourself in XMLTV format.<br>
-
-The enigma2 based receivers are having the rytec plugin in their image feed for importing epg data.<br>
-
-DVB-S card software including Smartdvb can import XMLTV so that an epg guide can be seen for the TV channels of Express AM8.<br>
-
-<img src="img/epg3.jpg" alt="" width="694" height="498"><br>
-
-Also in the seperate Guides
-
-<img src="img/epg.jpg" alt="" width="694" height="498"><br>
-
-<img src="img/epg2.jpg" alt="" width="694" height="498"><br>
-
-
-Download (right click save as) XMLTV EPG for:<br>
-
-[RT Germany](https://happysat.nl/xmltv/rt_de.xml)<br>
-
-[RT Int, Rossia-24, NTV MIR, 1TVRUS Europe, Dom Kino, RTR-Planeta Europa and Belarus24 HD.](https://happysat.nl/xmltv/rt.xml)<br>
-
-Updated every 7 Days.<br>
-
-Goto Tool/Settings menu for EPG import.<br>
-
-<img src="img/xmltv.jpg" alt="" width="694" height="498"><br>
-
 ## News and Updates
+
+28 March<br>
+
+IRIB back on 11544 V DVB-S2/8PSK 13300 3/5.<br>
 
 27 March<br>
 

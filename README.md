@@ -284,6 +284,18 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+9 April<br>
+
+NTV showing moving to 53 East banner:<br>
+
+<img src="img/ntv_10.04.2023.jpg" alt="" width="525" height="292"><br>
+
+7 April<br>
+
+IRIB Changes:<br>
+
+<img src="img/IRIB_07.04.2023.jpg" alt="" width="525" height="292"><br>
+
 28 March<br>
 
 IRIB back on 11544 V DVB-S2/8PSK 13300 3/5.<br>

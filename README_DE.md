@@ -284,6 +284,18 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+9 April<br>
+
+NTV zeigt den Umzug nach 53 East Banner:<br>
+
+<img src="img/ntv_10.04.2023.jpg" alt="" width="525" height="292"><br>
+
+7 April<br>
+
+IRIB Änderungen:<br>
+
+<img src="img/IRIB_07.04.2023.jpg" alt="" width="525" height="292"><br>
+
 28 März<br>
 
 IRIB zurruck auf 11544 V DVB-S2/8PSK 13300 3/5.<br>

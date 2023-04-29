@@ -284,6 +284,14 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+29 April<br>
+
+1TVRus-Testkarte weg, sendet wieder.<br>
+
+IRIB weg 11544 V DVB-S2/8PSK 13300 3/5.<br>
+
+IRIB 11671 H 16600 3/5 neue Kanäle: ALALAM SYRIA, IFILM ARABIC und SAHAR KURDISH<br>
+
 9 April<br>
 
 NTV zeigt den Umzug nach 53 East Banner:<br>

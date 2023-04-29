@@ -284,6 +284,14 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+29 April<br>
+
+1TVRus testcard gone, broadcasting again.<br>
+
+IRIB left 11544 V DVB-S2/8PSK 13300 3/5.<br>
+
+IRIB 11671 H 16600 3/5 new channels: ALALAM SYRIA, IFILM ARABIC en SAHAR KURDISH<br>
+
 9 April<br>
 
 NTV showing moving to 53 East banner:<br>

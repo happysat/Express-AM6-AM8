@@ -284,6 +284,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+13 Mai<br>
+
+RT und Synterra haben Transponder 11638 V / 11121 H hinterlassen (immer noch erhältlich auf 53 East).<br>
+
 29 April<br>
 
 1TVRus-Testkarte weg, sendet wieder.<br>

@@ -284,6 +284,10 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+13 May<br>
+
+RT and Synterra left Transponder 11638 V / 11121 H (Still available at 53 East).<br>
+
 29 April<br>
 
 1TVRus testcard gone, broadcasting again.<br>

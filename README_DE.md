@@ -284,6 +284,17 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+29 Mai<br>
+
+Neu 11638 MHz V, 30000 Symbolrate, FEC 1/2 DVB-S2 QPSK,
+Perviy Kanal Europa, RTR Planeta Europa, Rossia 24 und Karusel Int.<br>
+
+Perviy kanal Europa (TEST) hinterlassen 11653 V.<br>
+
+Dom Kino, Karusel International hinterlassen 11624 V.<br>
+
+RTR Planeta hinterlassen 11484 H.<br>
+
 13 Mai<br>
 
 RT und Synterra haben Transponder 11638 V / 11121 H hinterlassen (immer noch erhältlich auf 53 East).<br>

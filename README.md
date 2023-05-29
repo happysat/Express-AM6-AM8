@@ -284,6 +284,15 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+29 May<br>
+
+New 11638 MHz V, 30000 Symbolrate, FEC 1/2 DVB-S2 QPSK,
+Perviy Kanal Europa, RTR Planeta Europa, Rossia 24 and Karusel Int.<br>
+
+Perviy kanal Europa (TEST) left 11653 V.<br>
+
+Dom Kino, Karusel International left 11624 V.<br>
+
 13 May<br>
 
 RT and Synterra left Transponder 11638 V / 11121 H (Still available at 53 East).<br>

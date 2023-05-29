@@ -293,6 +293,8 @@ Perviy kanal Europa (TEST) left 11653 V.<br>
 
 Dom Kino, Karusel International left 11624 V.<br>
 
+RTR Planeta left 11484 H.<br>
+
 13 May<br>
 
 RT and Synterra left Transponder 11638 V / 11121 H (Still available at 53 East).<br>

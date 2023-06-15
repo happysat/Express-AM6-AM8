@@ -284,6 +284,11 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+15 Juni<br>
+
+NTV auf 11108 H und Belarus-24 auf 11638 H haben beide ihr Signal verloren.<br>
+Jamming auf 11638 MHz V.<br>
+
 29 Mai<br>
 
 Neu 11638 MHz V, 30000 Symbolrate, FEC 1/2 DVB-S2 QPSK,

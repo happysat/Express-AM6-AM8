@@ -284,6 +284,11 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+15 Juni<br>
+
+NTV 11108 H and Belarus-24 on 11638 H No signal<br>
+Jamming on 11638 MHz V.<br>
+
 29 May<br>
 
 New 11638 MHz V, 30000 Symbolrate, FEC 1/2 DVB-S2 QPSK,

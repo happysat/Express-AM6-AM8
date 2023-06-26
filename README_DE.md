@@ -284,6 +284,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+25 Juni<br>
+
+RTR-Planeta/Rossiya-24 haben TP 11025 hinterlassen.<br>
+
 15 Juni<br>
 
 NTV auf 11108 H und Belarus-24 auf 11638 H haben beide ihr Signal verloren.<br>

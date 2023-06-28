@@ -284,6 +284,13 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+28 June<br>
+
+No signal on transponder 11638 V since 3:00 p.m.<br>
+RTR-Planeta 11484, disturbed.<br>
+
+For more Russian TV channels in Europe (except Perviy kanal) you need to contact Express AM-6 53 Ost 11481 H.<br>
+
 25 Juni<br>
 
 RTR-Planeta/Rossiya-24 left TP 11025.<br>

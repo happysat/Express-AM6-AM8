@@ -284,6 +284,13 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+28 Juni<br>
+
+Seit 15:00 Uhr kein Signal auf Transponder 11638 V.<br>
+RTR-Planeta 11484, gestört.<br>
+
+Für weitere russische Fernsehsender in Europa (mit Ausnahme von Perviy kanal) müssen Sie sich an Express AM-6 53 Ost 11481 H wenden.<br>
+
 25 Juni<br>
 
 RTR-Planeta/Rossiya-24 haben TP 11025 hinterlassen.<br>

@@ -284,6 +284,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+29 Juni<br>
+
+11638 V mit Störungen zurück.<br>
+
 28 Juni<br>
 
 Seit 15:00 Uhr kein Signal auf Transponder 11638 V.<br>

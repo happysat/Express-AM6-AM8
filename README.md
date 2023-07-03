@@ -284,6 +284,10 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+3 July<br>
+
+Jamming continues on TP 11638 V also spread to AM6 11481 H and Yamal 402 eu beam.
+
 29 June<br>
 
 11638 V back with disruptions.<br>

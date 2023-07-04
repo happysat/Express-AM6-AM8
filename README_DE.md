@@ -1,6 +1,6 @@
-# Express AM8
+# Express AM6 und AM8
 
-Express AM8 ist ein russischer geostationärer Kommunikationssatellit.
+Express AM6 und AM8 sind russische geostationäre Kommunikationssatelliten.
 
 <img src="/img/Express-AM8.jpg" alt="" width="304" height="178">
 
@@ -23,7 +23,7 @@ Die aufgrund von Sanktionen gegen Russland (alle sender) und den Iran (Press TV)
 - [2.1 Haftungsausschluss ](https://github.com/happysat/Express-AM8/blob/main/README_DE.md#haftungsausschluss)
 
 ## TV- und Radiokanäle
-Die folgenden Fernseh- und Radiosender werden in DVB-S(2) HD über Express-AM8 ausgestrahlt:
+Die folgenden Fernseh- und Radiosender werden in DVB-S(2) HD über Express AM6 und AM8 ausgestrahlt:
 
 <img src="/img/RTDE2.jpg">
 
@@ -31,11 +31,11 @@ RT Int., RT Deutsch, RT France, RT Espanol, RT Arabic.<br>
 
 <img src="/img/Rossia-24.jpg">
 
-Russisch: Rossiya 24, RTR Planeta, NTV Mir, Perivy Kanal, Dom Kino, Karusel, Radio Sputnik.<br>
+Russisch: Rossiya 24, RTR Planeta, NTV Mir, Perivy Kanal.<br>
 
 <img src="/img/Belarus.jpg">
 
-Weißrussland: Weißrussland 24 HD, Radio Weißrussland Int.<br>
+Belarus: Belarus 24 HD, Radio Belarus Int.<br>
 
 <img src="/img/ALALAM.jpg">
 
@@ -51,46 +51,55 @@ Libanon: Etihad TV, Al Manar TV, Al Nour Radio.<br>
 
 ## Satellitenbeschreibung
 
-Betrieben und im Besitz von RSCC (Russian Satellite Communications Company) von einem orbitalen Stellplatz bei 14° West.<br>
-<a href="https://www.n2yo.com/satellite/?s=40895#results">Express-AM8</a> wird hochwertige Festnetz- und Mobilkommunikationsdienste bereitstellen.<br>
+Betrieben und Eigentum von RSCC (Russian Satellite Communications Company) Express AM6 und AM8 von einem Orbitalschlitz auf 14° Grad West und 53° Grad Ost.<br>
 
-Neben Rundfunkdiensten für digitales Fernsehen und Hörfunk, Datenübertragung,
-Highspeed-Internetzugang und sichere Behördenkommunikation.<br>
+Express AM6 und AM8 bieten Festnetz- und Mobilkommunikationsdienste an.<br>
+
+Neben Rundfunkdiensten für digitales Fernsehen und Radio, Datenübertragung,
+Hochgeschwindigkeits-Internetzugang und sichere Regierungskommunikation.<br>
 
 <img src="/img/АМ8.jpg" alt="" width="304" height="178">
 
-<a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) wurde von einem gestartet Proton-M-Trägerrakete am 14. September 2015 in den Orbit.<br>
-Thales Alenia Space baute die Express-AM8-Nutzlast und ISS Reshetnev konstruierte den Satellitenbus, der auf der Ekspress-1000NTB-Plattform basierte.<br>
+<a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) wurde von a gestartet Proton-M-Trägerrakete vom Kosmodrom Baikonur in die Umlaufbahn am 21. Oktober 2014.<br>
+Die Briz-M-Oberstufe schaltete sich beim vierten Zündvorgang zu früh ab und ließ den Satelliten auf einer niedrigeren Umlaufbahn als geplant zurück.<br>
+Der Satellit erreichte die operative geostationäre Umlaufbahn mithilfe seiner eigenen stationären SPT-100-Plasmatriebwerke.<br>
+
+MacDonald, Dettwiler and Associates Ltd. (MDA) konstruierte die Express AM6-Nutzlast und ISS Reshetnev konstruierte den Satellitenbus, der auf der Express-2000-Plattform basierte.<br>
+Der Satellit hat eine Masse von 3.400 kg (7.403 lb), liefert 14 Kilowatt Nutzlast und hat eine geplante Betriebslebensdauer von 15 Jahren.<br>
+
+<a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) wurde von a gestartet Proton-M-Trägerrakete vom Kosmodrom Baikonur in die Umlaufbahn am 14. September 2015.<br>
+
+Thales Alenia Space konstruierte die Express AM8-Nutzlast und ISS Reshetnev konstruierte den Satellitenbus, der auf der Express-1000NTB-Plattform basierte.<br>
 Der Satellit hat eine Masse von 2.100 kg (4.600 lb), liefert 5,9 Kilowatt Nutzlast und eine geplante Betriebslebensdauer von 15 Jahren.<br>
 
-Es sollte berücksichtigt werden, dass Express AM8 kein gewöhnlicher DTH-Hochleistungssatellit wie Astra und Hotbird ist!<br>
+Es sollte berücksichtigt werden, dass es sich bei Express AM6 und AM8 nicht um gewöhnliche DTH-Hochleistungssatelliten wie Astra und Hotbird handelt!<br>
 
-Express AM8 unterliegt häufigen Frequenz- und Signalstärkeänderungen.<br>
-Es werden Transponder mit niedrigen Symbolraten verwendet und viele Tests durchgeführt, die von DVB-S(2) bis T2-MI variieren.<br>
+Express AM6 und AM8 unterliegen häufigen Frequenz- und Signalstärkeänderungen.<br>
+Es werden Transponder mit niedrigen Symbolraten verwendet und es werden viele Tests durchgeführt, die von DVB-S(2) bis T2-MI reichen.<br>
 
 Details und Informationen zu Transpondern/Kanälen können sich täglich ändern.<br>
-Das macht ihn zu einem interessanten exotischen "DX"-Satelliten mit transatlantischer Abdeckung und kundenspezifischen Cross-Strap-Footprint-Konfigurationen.<br>
+Das macht ihn zu einem interessanten exotischen „DX“-Satelliten mit transatlantischer Abdeckung und benutzerdefinierten Cross-Strap-Footprint-Konfigurationen.<br>
 
 Auch die Satellitentransponder werden regelmäßig gehackt oder durch Störsignale gestört.<br>
-Dies ist kein Einzelfall, und es ist auch bei Eutelsat Hotbird Position (und einer Reihe anderer Satelliten) passiert.<br>
 
 ## Schüssel und LNB
 
-Für den Empfang von Express-AM8 benötigen Sie eine Schüssel in der Größe >75 - 85 cm.<br>
+Für den Empfang von Express AM6 und AM8 benötigen Sie eine Antenne mit einer Größe von >75 - 85 cm.<br>
 Empfohlen wird eine Größe zwischen 80 - 1,20 cm.<br>
 
 In meinem Setup verwendete Gerichte sind:<br>
            <br>
-           <img src="img/Triax.jpg" alt="" width="267" height="187">
+           <img src="img/Triax.jpg" alt="" width="267" height="200">
            &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img
-             src="img/90cm.jpg" alt="" width="173" height="196"><br>
+             src="img/53_dish.jpg" alt="350" width="" height="200"><br>
 
-89CM Triax und 90CM Noname Dish.
+2 x 89 cm Triax-Antenne auf 14 West und 53 Grad Ost.
           
-Jeder Ku-Band-Satelliten-TV-LNB (DRO/PLL-basiert) kann für Express AM8 verwendet werden.<br>
+Für Express AM6 und AM8 kann jedes Ku-Band-Satellitenfernseh-LNB (DRO/PLL-basiert) verwendet werden.<br>
+Ich habe verschiedene Ergebnisse mit DRO- und PLL-basierten Modellen, aber es zeigt sich eindeutig eine enorme Steigerung der Frequenzstabilität YMMV.<br>
 
-Herkömmliche Ku-Band-Satelliten-TV-LNB (DRO) leiden unter Frequenzdrift, was es schwieriger macht, einen stabilen Empfang für die Signale mit niedriger Symbolrate aufrechtzuerhalten.<br>
-Aufgrund äußerer Bedingungen (Temperaturänderungen, Sonne, Wolken, Wind usw.).<br>
+Normale Ku-Band-Satellitenfernseh-LNBs (DRO) leiden unter Frequenzdrift, was es schwieriger macht, einen stabilen Empfang für die Signale mit niedriger Symbolrate aufrechtzuerhalten.<br>
+Aufgrund äußerer Bedingungen (Temperaturschwankungen, Sonne, Wolken, Wind usw.).<br>
 
 Auf meinem Setup werden verwendet:<br>
 
@@ -104,45 +113,56 @@ Inverto Twin (PLL) LNB.<br>
 
 ## Footprint
 
-Express AM8 trägt 12 Ku-Band Transponder Linear 12x36 MHz; 4x54 MHz (150W) mit drei Footprints:
+Express AM6 verfügt über 44 Ku-Band-, 14 C-Band-, 12 Ka-Band- und 2 L-Band-Transponder mit vier Footprints.
 
+Zwei feste und zwei steuerbare Ku-Band-Strahlen werden von 44 aktiven Ku-Band-Transpondern bedient.<br>
+Zu den festen Ku-Zonen gehört ein russischer Strahl, der die westliche Hälfte des Landes und Teile Osteuropas abdeckt.<br>
+
+Während sich die zweite Ku-Zone vom Nahen Osten über Mitteleuropa bis in die nördlichen Länder erstreckt.<br>
+Mobile Ku-Beams können verwendet werden, um Regionen mit hoher Nachfrage mit Kommunikation zu versorgen.<br>
+
+Die erste feste C-Band-Zone deckt einen großen Teil Russlands ab.<br>
+Der zweite C-Band-Strahl deckt den gesamten Kontinent Afrika, Saudi-Arabien sowie West- und Mitteleuropa ab.<br>
+Der globale C-Band-Beam deckt den gesamten Kontinent Europa und Afrika ab und deckt auch Teile Asiens und Australiens ab.<br>
+
+<img src="img/express-am6-footprint.jpg" alt="" width="567" height="405">
+
+Im März 2020 wurde die Ka-Band-Nutzlast des fünf Jahre alten Satelliten aufgrund einer Fehlfunktion des thermischen Kontrollsystems des Raumfahrzeugs abgeschaltet.<br>
+<br>
+Express AM8 trägt 12 Ku-Band-Transponder Linear 12x36 MHz; 4x54 MHz (150 W) mit drei Footprints:<br>
+<br>
 <img src="img/express-am8-ku-band-fix1.jpg" alt="" width="567" height="405">
 
-Europa/Naher Osten Fixed 1
+Europa/Naher Osten Fest 1.<br>
 
 <img src="img/express-am8-ku-band-fix2.jpg" alt="" width="564" height="533">
 
-Afrika/Naher Osten Fixed 2.<br>
-Und Lateinamerika/Ostküste Nordamerikas Fixed 3.<br>
+Afrika/Naher Osten Fest 2.<br>
+Und Lateinamerika/Ostküste Nordamerikas Fest 3.<br>
 
-24 C-Band Transponder Circular 24x40 MHz (100W) mit Abdeckung von zwei Footprints:
+24 C-Band-Transponder, kreisförmig, 24 x 40 MHz (100 W), mit Abdeckung von zwei Footprints:
 
 Europa, Afrika und der Nahe Osten sowie Lateinamerika und die Ostküste Nordamerikas.<br>
-Und die Nutzlast hat zwei L-Band-Transponder.<br>
+Und die Nutzlast verfügt über zwei L-Band-Transponder.<br>
 
 ## Schüssel auf Express-AM8 ausrichten
 
-Es gibt mehrere Möglichkeiten, Express-AM8 am Himmel zu finden:
+Es gibt mehrere Möglichkeiten, Express AM6 und AM8 am Himmel zu finden:
 
 <a href="https://www.dishpointer.com" target="_blank">Dishpointer hat eine gute Website und Android-App.</a>
 
-Geben Sie den Standort der Stadt ein und wählen Sie Express AM8, um alle Details anzuzeigen.
+Geben Sie den Standort der Stadt ein und wählen Sie Express AM6 und AM8 aus, um alle Details anzuzeigen.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MNqsqvnrJbI
 " target="_blank"><img src="http://img.youtube.com/vi/MNqsqvnrJbI/0.jpg"
-alt="LNB-Skew" width="240" height="180" border="10" /></a>
+alt="LNB Skew" width="240" height="180" border="10" /></a>
 
-Beachten Sie die Skew-Einstellungen des LNB!<br>
-Die Dish Pointer-Website listet die Skew-Werte für Express AM8 unter dem Bild Ihres ausgewählten Standorts auf.<br>
+Berücksichtigen Sie die Skew-Einstellungen des LNB!<br>
+Die Dish Pointer-Website listet die Skew-Werte für Express AM6 und AM8 unter dem Bild des von Ihnen ausgewählten Standorts auf.<br>
 
-Und versuchen Sie, den stärksten Transponder einzustellen <a href="https://en.kingofsat.net/tp.php?tp=12861" target="_blank">11623 V DVB-S2 8PSK 7347 3/4.</ a><br>
+Versuchen Sie für 14 West, den stärksten Transponder <a href="https://en.kingofsat.net/tp.php?tp=12862" target="_blank">11637 V DVB-S2 QPSK Symbolrate 30000 FEC zu suchen und einzustellen 1/2.</a><br>
 
-Wenn es nicht funktioniert, versuchen Sie es mit Telstar auf 15 West, einem starken Transponder mit 1 FTA-Kanal auf <a href="https://en.kingofsat.net/tp.php?tp=1086" target="_blank">11377 V DVB-S2 QPSK 8750 3/5.</a><br>
-
-<img src="img/MTN_Info.jpg" alt="" width="542" height="299"><br>
-
-Wenn es funktioniert und für genügend Signal fein abgestimmt ist, bewegen Sie die Schüssel auf 14 West, es sollte nur eine kleine Anpassung sein.<br>
-
+Versuchen Sie für 53 Ost, diesen Transponder zu suchen und einzustellen <a href="https://en.kingofsat.net/tp.php?tp=1819" target="_blank">11481 H DVB-S2 QPSK Symbolrate 27500 FEC 3 /4.</a><br>
 
 Oder das Programm <a href="http://www.al-soft.com/saa/satinfo.shtml" target="_blank">Satellite Antenna Alignment 4.0</a><br>
 Für Schüssel ausrichtung und viele weitere Optionen.<br>
@@ -167,18 +187,26 @@ Telemetrie- und Bakenfrequenzen:<br>
 <img src="img/telemetry.jpg" alt="" width="525" height="292"><br>
 
 11199,50 GHz R (global).<br>
+3405,40 GHz R.<br>
+3850,00 GHz R.<br>
+3850,50 GHz L.<br>
+<br>
+[Express AM6 Transponder.ini-Datei](https://en.kingofsat.net/dl.php?pos=53E&fkhz=0)<br>
+<br>
+[Express AM8 Transponder.ini-Datei](https://en.kingofsat.net/dl.php?pos=14W&fkhz=0)<br>
+<br>
+[![Express AM6 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM6.html)<br>
+Lyngsat Express AM6 Transponderindex.<br>
+<br>
+[![Express AM8 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM8.html)<br>
+Lyngsat Express AM8 Transponderindex.<br>
 <br>
 <br>
-[Up2date Express AM8 Transponder.ini-Datei](https://github.com/happysat/Express-AM8/blob/main/3460.ini)<br>
+[![Express AM6 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-53E.php)<br>
+King Of Sat Express AM6 Transponderindex.<br>
 <br>
-<br>
-[![Express AM8 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM8.html)
-<br>
-Lyngsat-Transponderindex<br>
-<br>
-[![Express AM8 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-14W.php)
-<br>
-KingOfSat-Transponderindex<br>
+[![Express AM8 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-14W.php)<br>
+King Of Sat Express AM8 Transponderindex.<br>
 
 ## T2-MI-Technologie
 
@@ -531,4 +559,4 @@ Dieser Satellit und seine Inhaltsübertragungskanäle werden von RSCC (Russian S
 
 ## Autor
 
-- [Express AM8 by Happysat](https://github.com/happysat/Express-AM8/blob/main/README_DE.md)
+- [Express AM6/8 by Happysat](https://github.com/happysat/Express-AM6-AM8/blob/main/README_DE.md)

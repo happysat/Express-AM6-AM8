@@ -58,7 +58,7 @@ Express AM6 and AM8 are providing fixed and mobile communication services.<br>
 As well as broadcast services for digital television and radio, data transmission,
 high-speed Internet access and secure government communications.<br>
 
-<img src="/img/АМ8.jpg" alt="" width="304" height="178">
+<img src="/img/АМ8.jpg" alt="" width="304" height="178"> <img src="/img/Express_AM6.jpeg" alt="" width="304" height="178">
 
 <a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) was launched by a Proton M launcher from Baikonur Cosmodrome into orbit on October 21, 2014.<br>
 The Briz-M upper stage shut down too early in the fourth burn and left the satellite in a lower than planned orbit.<br> 
@@ -90,11 +90,11 @@ A size between 80 - 1.20 cm is recommended.<br>
 
 Dishes In use on my setup are:<br>
           <br>
-          <img src="img/Triax.jpg" alt="" width="267" height="187">
+          <img src="img/Triax.jpg" alt="" width="267" height="200">
           &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img
-            src="img/90cm.jpg" alt="" width="173" height="196"><br>
+            src="img/53_dish.jpg" alt="350" width="" height="200"><br>
 
-89CM Triax And 90CM Noname Dish.
+2 x 89CM Triax Dish.
           
 Any Ku-band Satellite TV (DRO/PLL-based) LNB can be used for Express AM6 and AM8.<br>
 I have various results with DRO and PLL based ones but shows clearly a huge increase of frequency stability YMMV.<br>
@@ -114,7 +114,19 @@ Inverto Twin (PLL) LNB.<br>
 
 ## Footprint
 
-Express AM6 carries 44 Ku-band 14 C-band, 12 Ka-band and 2 L-band transponders with three footprints.
+Express AM6 carries 44 Ku-band, 14 C-band, 12 Ka-band and 2 L-band transponders with four footprints.
+
+Two fixed and two steerable Ku-Band beams are served by 44 active Ku-Band transponders.<br> 
+The fixed Ku-Zones include a Russian Beam that covers the western half of the country and portions of eastern Europe while the second Ku-Zone stretches from the Middle East all the way across Central Europe into the northern countries.<br>
+
+Mobile Ku-Beams can be used to provide communications coverage to regions of high demand.<br>
+
+The first fixed zone covers a large portion of Russia with the exception of the Eastern part of the country, the zone also covers Kazakhstan and eastern Europe.<br> 
+Second C-Band beam covers the entire continent of Africa, Saudi Arabia and western and central Europe.<br>
+Global C-Band beam provides coverage of the entire continent of Europe and Africa also covering portions of Asia and Australia.<br>
+
+<img src="img/express-am6-footprint.jpg" alt="" width="567" height="405">
+
 In March 2020 the five-year-old satellite's Ka-band payload was shut off due to a thermal control system malfunction with the spacecraft.
 
 Express AM8 carries 12 Ku-band transponders Linear 12x36 MHz; 4x54 MHz (150W) with three footprints:
@@ -146,7 +158,7 @@ Enter City location and Select Express AM6 and AM8 to see all details.
 alt="LNB Skew" width="240" height="180" border="10" /></a>
 
 Take into account the skew settings of the LNB!<br>
-Dish Pointer website list the skew values for Express AM8 below the image of your selected location.<br>
+Dish Pointer website list the skew values for Express AM6 and AM8 below the image of your selected location.<br>
 
 And try to tune for the strongest transponder <a href="https://en.kingofsat.net/tp.php?tp=12861" target="_blank">11623 V DVB-S2 8PSK 7347 3/4.</a><br>
 

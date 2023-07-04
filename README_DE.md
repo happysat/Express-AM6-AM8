@@ -133,11 +133,11 @@ Express AM8 trägt 12 Ku-Band-Transponder Linear 12x36 MHz; 4x54 MHz (150 W) mit
 <br>
 <img src="img/express-am8-ku-band-fix1.jpg" alt="" width="567" height="405">
 
-Europa/Naher Osten Fest 1.<br>
+Europa/Naher Osten Fixed 1.<br>
 
 <img src="img/express-am8-ku-band-fix2.jpg" alt="" width="564" height="533">
 
-Afrika/Naher Osten Fest 2.<br>
+Afrika/Naher Osten Fixed 2.<br>
 Und Lateinamerika/Ostküste Nordamerikas Fest 3.<br>
 
 24 C-Band-Transponder, kreisförmig, 24 x 40 MHz (100 W), mit Abdeckung von zwei Footprints:
@@ -180,9 +180,11 @@ alt="RT" width="240" height="180" border="10" /></a>
 
 ## Telemetrie, Transponder und Beacon-Frequenzen.
 
-<a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM8.pdf" target="_blank"><img src="img/freq-plan.jpg" alt= "" width="741" height="645" border="0"></a>
+<a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM6.pdf" target="_blank"><img src="img/freq-plan_AM6.jpg" alt="" width="741" height="445" border="0"></a>
 
-Telemetrie- und Bakenfrequenzen:<br>
+<a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM8.pdf" target="_blank"><img src="img/freq-plan.jpg" alt="" width="741" height="645" border="0"></a>
+
+Telemetry and Beacon Frequencies:<br>
 
 <img src="img/telemetry.jpg" alt="" width="525" height="292"><br>
 

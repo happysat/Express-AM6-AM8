@@ -58,7 +58,7 @@ Express AM6 und AM8 bieten Festnetz- und Mobilkommunikationsdienste an.<br>
 Neben Rundfunkdiensten für digitales Fernsehen und Radio, Datenübertragung,
 Hochgeschwindigkeits-Internetzugang und sichere Regierungskommunikation.<br>
 
-<img src="/img/АМ8.jpg" alt="" width="304" height="178">
+<img src="/img/АМ8.jpg" alt="" width="304" height="178"> <img src="/img/Express_AM6.jpeg" alt="" width="304" height="178">
 
 <a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) wurde von a gestartet Proton-M-Trägerrakete vom Kosmodrom Baikonur in die Umlaufbahn am 21. Oktober 2014.<br>
 Die Briz-M-Oberstufe schaltete sich beim vierten Zündvorgang zu früh ab und ließ den Satelliten auf einer niedrigeren Umlaufbahn als geplant zurück.<br>

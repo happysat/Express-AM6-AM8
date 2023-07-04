@@ -51,7 +51,8 @@ Lebanon: Etihad TV, Al Manar TV, Al Nour Radio.<br>
 
 ## Satellite Description
 
-Operated and owned by RSCC (Russian Satellite Communications Company) Express AM6 and AM8 from an orbital slot at 14° Degrees West and 53° Degrees East<br>
+Operated and owned by RSCC (Russian Satellite Communications Company) Express AM6 and AM8 from an orbital slot at 14° Degrees West and 53° Degrees East.<br>
+
 Express AM6 and AM8 are providing fixed and mobile communication services.<br>
 
 As well as broadcast services for digital television and radio, data transmission,
@@ -59,7 +60,10 @@ high-speed Internet access and secure government communications.<br>
 
 <img src="/img/АМ8.jpg" alt="" width="304" height="178">
 
+<a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) was launched by a Proton M launcher into orbit on October 21, 2014.<br>
+
 <a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) was launched by a Proton M launcher into orbit on September 14, 2015.<br>
+
 Thales Alenia Space, constructed Express AM6 and AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Ekspress-1000NTB platform.<br>
 The satellite has a mass of 2,100 kg (4,600 lb), provides 5.9 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>
 
@@ -105,6 +109,8 @@ Inverto Twin (PLL) LNB.<br>
 
 ## Footprint
 
+Express AM6 carries 44 Ku-band 14 C-band, 12 Ka-band and 2 L-band transponders with three footprints.
+
 Express AM8 carries 12 Ku-band transponders Linear 12x36 MHz; 4x54 MHz (150W) with three footprints:
 
 <img src="img/express-am8-ku-band-fix1.jpg" alt="" width="567" height="405">
@@ -127,7 +133,7 @@ There are several ways to find Express AM6 and AM8 in the sky:
 
 <a href="https://www.dishpointer.com" target="_blank">Dishpointer has a good website and Android app.</a>
 
-Enter City location and Select Express AM8 to see all details.
+Enter City location and Select Express AM6 and AM8 to see all details.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MNqsqvnrJbI
 " target="_blank"><img src="http://img.youtube.com/vi/MNqsqvnrJbI/0.jpg" 

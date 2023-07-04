@@ -94,7 +94,7 @@ Dishes In use on my setup are:<br>
           &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img
             src="img/53_dish.jpg" alt="350" width="" height="200"><br>
 
-2 x 89CM Triax Dish.
+2 x 89CM Triax Dish on 14 West and 53 degrees East.
           
 Any Ku-band Satellite TV (DRO/PLL-based) LNB can be used for Express AM6 and AM8.<br>
 I have various results with DRO and PLL based ones but shows clearly a huge increase of frequency stability YMMV.<br>
@@ -117,23 +117,24 @@ Inverto Twin (PLL) LNB.<br>
 Express AM6 carries 44 Ku-band, 14 C-band, 12 Ka-band and 2 L-band transponders with four footprints.
 
 Two fixed and two steerable Ku-Band beams are served by 44 active Ku-Band transponders.<br> 
-The fixed Ku-Zones include a Russian Beam that covers the western half of the country and portions of eastern Europe while the second Ku-Zone stretches from the Middle East all the way across Central Europe into the northern countries.<br>
+The fixed Ku-Zones include a Russian Beam that covers the western half of the country and portions of eastern Europe.<br>
 
+While the second Ku-Zone stretches from the Middle East all the way across Central Europe into the northern countries.<br>
 Mobile Ku-Beams can be used to provide communications coverage to regions of high demand.<br>
 
-The first fixed zone covers a large portion of Russia with the exception of the Eastern part of the country, the zone also covers Kazakhstan and eastern Europe.<br> 
+The first C-Band fixed zone covers a large portion of Russia.<br> 
 Second C-Band beam covers the entire continent of Africa, Saudi Arabia and western and central Europe.<br>
 Global C-Band beam provides coverage of the entire continent of Europe and Africa also covering portions of Asia and Australia.<br>
 
 <img src="img/express-am6-footprint.jpg" alt="" width="567" height="405">
 
-In March 2020 the five-year-old satellite's Ka-band payload was shut off due to a thermal control system malfunction with the spacecraft.
-
-Express AM8 carries 12 Ku-band transponders Linear 12x36 MHz; 4x54 MHz (150W) with three footprints:
-
+In March 2020 the five-year-old satellite's Ka-band payload was shut off due to a thermal control system malfunction with the spacecraft.<br>
+<br>
+Express AM8 carries 12 Ku-band transponders Linear 12x36 MHz; 4x54 MHz (150W) with three footprints:<br>
+<br>
 <img src="img/express-am8-ku-band-fix1.jpg" alt="" width="567" height="405">
 
-Europe/Middle-East Fixed 1
+Europe/Middle-East Fixed 1.<br>
 
 <img src="img/express-am8-ku-band-fix2.jpg" alt="" width="564" height="533">
 
@@ -160,14 +161,9 @@ alt="LNB Skew" width="240" height="180" border="10" /></a>
 Take into account the skew settings of the LNB!<br>
 Dish Pointer website list the skew values for Express AM6 and AM8 below the image of your selected location.<br>
 
-And try to tune for the strongest transponder <a href="https://en.kingofsat.net/tp.php?tp=12861" target="_blank">11623 V DVB-S2 8PSK 7347 3/4.</a><br>
+For 14 West try to search and tune for the strongest transponder <a href="https://en.kingofsat.net/tp.php?tp=12862" target="_blank">11637 V DVB-S2 QPSK Symbolrate 30000 FEC 1/2.</a><br>
 
-If not working try Telstar on 15 West, strong Transponder with 1 FTA channel on <a href="https://en.kingofsat.net/tp.php?tp=1086" target="_blank">11377 V DVB-S2 QPSK 8750 3/5.</a><br>
-
-<img src="img/MTN_Info.jpg" alt="" width="542" height="299"><br>
-
-When it works and fine tuned for enough signal move the dish to 14 west, it should be a small adjustment.<br>
-
+For 53 East try to search and tune for this transponder <a href="https://en.kingofsat.net/tp.php?tp=1819" target="_blank">11481 H DVB-S2 QPSK Symbolrate 27500 FEC 3/4.</a><br>
 
 Or the program <a href="http://www.al-soft.com/saa/satinfo.shtml" target="_blank">Satellite Antenna Alignment 4.0</a><br>
 For Dish alignment and many more options.<br>
@@ -185,6 +181,8 @@ alt="RT" width="240" height="180" border="10" /></a>
 
 ## Telemetry, Transponders and Beacon Frequencies.
 
+<a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM6.pdf" target="_blank"><img src="img/freq-plan_AM6.jpg" alt="" width="741" height="445" border="0"></a>
+
 <a href="http://www.romantis.com/wp-content/uploads/2017/01/Romantis_AM8.pdf" target="_blank"><img src="img/freq-plan.jpg" alt="" width="741" height="645" border="0"></a>
 
 Telemetry and Beacon Frequencies:<br>
@@ -192,18 +190,26 @@ Telemetry and Beacon Frequencies:<br>
 <img src="img/telemetry.jpg" alt="" width="525" height="292"><br>
 
 11199.50 GHz R (Global).<br>
+3405.40 GHz R.<br>
+3850.00 GHz R.<br>
+3850.50 GHz L.<br>
+<br>
+[Express AM6 Transponder.ini file](https://en.kingofsat.net/dl.php?pos=53E&fkhz=0)<br>
+<br>
+[Express AM8 Transponder.ini file](https://en.kingofsat.net/dl.php?pos=14W&fkhz=0)<br>
+<br>
+[![Express AM6 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM6.html)<br>
+Lyngsat Express AM6 Transponder Index.<br>
+<br>
+[![Express AM8 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM8.html)<br>
+Lyngsat Express AM8 Transponder Index.<br>
 <br>
 <br>
-[Up2date Express AM8 Transponder.ini file](https://github.com/happysat/Express-AM8/blob/main/3460.ini)<br>
+[![Express AM6 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-53E.php)<br>
+King Of Sat Express AM6 Transponder Index.<br>
 <br>
-<br>
-[![Express AM8 Transponder Index](https://www.lyngsat.com/images/lyngsat_210x48.gif)](https://www.lyngsat.com/Express-AM8.html)
-<br>
-Lyngsat Transponder Index<br>
-<br>
-[![Express AM8 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-14W.php)
-<br>
-KingOfSat Transponder Index<br>
+[![Express AM8 Transponder Index](https://en.kingofsat.net/kingofsat.gif)](https://en.kingofsat.net/pos-14W.php)<br>
+King Of Sat Express AM8 Transponder Index.<br>
 
 ## T2-MI Technology
 

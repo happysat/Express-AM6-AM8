@@ -1,6 +1,6 @@
-# Express AM8
+# Express AM6 and AM8
 
-Express AM8 is a Russian geostationary communications satellite.
+Express AM6 and AM8 are Russian geostationary communications satellites.
 
 <img src="/img/Express-AM8.jpg" alt="" width="304" height="178">
 
@@ -23,7 +23,7 @@ Which are banned from broadcasting by EU distributors/providers due sanctions ag
 - [ 2.1 Disclaimer ](https://github.com/happysat/Express-AM8/blob/main/README.md#disclaimer)
 
 ## TV and Radio Channels
-The following TV and Radio channels are broadcasted in DVB-S(2) HD thru Express-AM8:
+The following TV and Radio channels are broadcasted in DVB-S(2) HD thru Express AM6 and AM8:
 
 <img src="/img/RTDE2.jpg">
 
@@ -51,8 +51,8 @@ Lebanon: Etihad TV, Al Manar TV, Al Nour Radio.<br>
 
 ## Satellite Description
 
-Operated and owned by RSCC (Russian Satellite Communications Company) from an orbital slot at 14° Degrees West.<br>
-<a href="https://www.n2yo.com/satellite/?s=40895#results">Express-AM8</a> will provide high quality fixed and mobile communication services.<br>
+Operated and owned by RSCC (Russian Satellite Communications Company) Express AM6 and AM8 from an orbital slot at 14° Degrees West and 53° Degrees East<br>
+Express AM6 and AM8 are providing fixed and mobile communication services.<br>
 
 As well as broadcast services for digital television and radio, data transmission,
 high-speed Internet access and secure government communications.<br>
@@ -60,12 +60,12 @@ high-speed Internet access and secure government communications.<br>
 <img src="/img/АМ8.jpg" alt="" width="304" height="178">
 
 <a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) was launched by a Proton M launcher into orbit on September 14, 2015.<br>
-Thales Alenia Space, constructed Express-AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Ekspress-1000NTB platform.<br>
+Thales Alenia Space, constructed Express AM6 and AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Ekspress-1000NTB platform.<br>
 The satellite has a mass of 2,100 kg (4,600 lb), provides 5.9 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>
 
-It should be taken into account that Express AM8 is not an ordinary DTH high power satellite like Astra and Hotbird!<br>
+It should be taken into account that Express AM6 and AM8 are no ordinary DTH high power satellites like Astra and Hotbird!<br>
 
-Express AM8 is subject to frequent frequency and signal strength changes.<br>
+Express AM6 and AM8 are subject to frequent frequency and signal strength changes.<br>
 Transponder with low symbolrates are used, and many test's are performed varying from DVB-S(2) to T2-MI.<br>
 
 Transponders/Channels details and info can change on a daily base.<br>
@@ -76,7 +76,7 @@ This is no unique case and it did happen at Eutelsat Hotbird Position (and a num
 
 ## Dish and LNB
 
-For reception of Express-AM8 you need a dish in size >75 - 85 cm.<br>
+For reception of Express AM6 and AM8 you need a dish in size >75 - 85 cm.<br>
 A size between 80 - 1.20 cm is recommended.<br>
 
 Dishes In use on my setup are:<br>
@@ -87,7 +87,7 @@ Dishes In use on my setup are:<br>
 
 89CM Triax And 90CM Noname Dish.
           
-Any Ku-band Satellite TV (DRO/PLL-based) LNB can be used for Express AM8.<br>
+Any Ku-band Satellite TV (DRO/PLL-based) LNB can be used for Express AM6 and AM8.<br>
 I have various results with DRO and PLL based ones but shows clearly a huge increase of frequency stability YMMV.<br>
 
 Regular Ku-band Satellite TV LNB (DRO) suffer from drift in frequency making it more difficult to keep a stable reception for the low symbolrate signals.<br>
@@ -123,7 +123,7 @@ And the payload has two L-band transponders.<br>
 
 ## Dish align to Express-AM8
 
-There are several ways to find Express-AM8 in the sky:
+There are several ways to find Express AM6 and AM8 in the sky:
 
 <a href="https://www.dishpointer.com" target="_blank">Dishpointer has a good website and Android app.</a>
 

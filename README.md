@@ -62,9 +62,12 @@ high-speed Internet access and secure government communications.<br>
 
 <a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) was launched by a Proton M launcher into orbit on October 21, 2014.<br>
 
+MacDonald, Dettwiler and Associates Ltd. (MDA), constructed the Express AM6 payload, and ISS Reshetnev constructed the satellite bus which was based on the Express-2000 platform.<br>
+The satellite has a mass of 3,400 kg (7,403 lb), provides 14 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>
+
 <a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) was launched by a Proton M launcher into orbit on September 14, 2015.<br>
 
-Thales Alenia Space, constructed Express AM6 and AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Ekspress-1000NTB platform.<br>
+Thales Alenia Space, constructed the Express AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Express-1000NTB platform.<br>
 The satellite has a mass of 2,100 kg (4,600 lb), provides 5.9 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>
 
 It should be taken into account that Express AM6 and AM8 are no ordinary DTH high power satellites like Astra and Hotbird!<br>
@@ -110,6 +113,7 @@ Inverto Twin (PLL) LNB.<br>
 ## Footprint
 
 Express AM6 carries 44 Ku-band 14 C-band, 12 Ka-band and 2 L-band transponders with three footprints.
+In March 2020 the five-year-old satellite's Ka-band payload was shut off due to a thermal control system malfunction with the spacecraft.
 
 Express AM8 carries 12 Ku-band transponders Linear 12x36 MHz; 4x54 MHz (150W) with three footprints:
 

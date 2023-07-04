@@ -60,12 +60,14 @@ high-speed Internet access and secure government communications.<br>
 
 <img src="/img/АМ8.jpg" alt="" width="304" height="178">
 
-<a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) was launched by a Proton M launcher into orbit on October 21, 2014.<br>
+<a href="https://orbit.ing-now.com/satellite/40277/2014-064a/express-am6/">Express-AM6</a> (Norad:40277 2014-064A) was launched by a Proton M launcher from Baikonur Cosmodrome into orbit on October 21, 2014.<br>
+The Briz-M upper stage shut down too early in the fourth burn and left the satellite in a lower than planned orbit.<br> 
+The satellite reached the operational geostationary orbit by using its own SPT-100 Stationary Plasma Thrusters.<br>
 
 MacDonald, Dettwiler and Associates Ltd. (MDA), constructed the Express AM6 payload, and ISS Reshetnev constructed the satellite bus which was based on the Express-2000 platform.<br>
 The satellite has a mass of 3,400 kg (7,403 lb), provides 14 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>
 
-<a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) was launched by a Proton M launcher into orbit on September 14, 2015.<br>
+<a href="https://orbit.ing-now.com/satellite/40895/2015-048a/express-am8/">Express-AM8</a> (Norad:40895 2015-048A) was launched by a Proton M launcher from Baikonur Cosmodrome into orbit on September 14, 2015.<br>
 
 Thales Alenia Space, constructed the Express AM8 payload, and ISS Reshetnev constructed the satellite bus which was based on the Express-1000NTB platform.<br>
 The satellite has a mass of 2,100 kg (4,600 lb), provides 5.9 kilowatts to its payload, and a planned operational lifespan of 15 years.<br>

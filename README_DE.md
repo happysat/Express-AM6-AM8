@@ -314,9 +314,13 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+12 Juli<br>
+
+TP 11638 V ausgeschaltet.<br>
+
 3 Juli<br>
 
-Die Störung auf TP 11638 V geht weiter und breitet sich auch auf AM6 11481 H und Yamal 402 EU-Beam aus.
+Die Störung auf TP 11638 V geht weiter und breitet sich auch auf AM6 11481 H und Yamal 402 EU-Beam aus.<br>
 
 29 Juni<br>
 

@@ -314,9 +314,9 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
-12 Juli<br>
+14 Juli<br>
 
-TP 11638 V ausgeschaltet.<br>
+TP 11638 V Der Transponder ist im Moment noch aktiv.<br>
 
 3 Juli<br>
 

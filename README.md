@@ -314,9 +314,9 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
-12 July<br>
+14 July<br>
 
-TP 11638 V Switched off.<br>
+TP 11638 V Signal reappear.<br>
 
 3 July<br>
 

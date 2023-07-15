@@ -314,6 +314,14 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+15 Juli<br>
+
+Mitte Juni tauchten in den Medien Nachrichten über die Verletzung der Satellitenübertragung in der Russischen Föderation auf.<br>
+Als Gründe werden gezielte Angriffe auf russische Satelliten durch Spezialisten aus „feindlichen“ Ländern genannt.<br>
+Die konkreten Persönlichkeiten dahinter sind noch nicht bekannt, aber die zuständigen Behörden arbeiten daran.<br>
+
+<a href="https://translated.turbopages.org/proxy_u/ru-de.en.7c011ca0-64b2b12b-6374001b-74722d776562/https/tele-satinfo.ru/index.php?id=17251">Quelle: TeleSatINFO.ru</a><br>
+
 14 Juli<br>
 
 TP 11638 V Der Transponder ist im Moment noch aktiv.<br>

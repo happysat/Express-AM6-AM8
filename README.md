@@ -314,6 +314,14 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+15 July<br>
+
+In mid-June, news began to appear in the media about the violation of satellite broadcasting in the Russian Federation.<br> 
+Deliberate attacks on Russian satellites by specialists from "unfriendly" countries are cited as the reasons.<br>
+The specific personalities behind it have not yet been revealed, but the competent authorities are working on it.<br>
+
+<a href="https://translated.turbopages.org/proxy_u/ru-en.en.56335909-64b2af6b-5c443e5e-74722d776562/https/tele-satinfo.ru/index.php?id=17251">Source: TeleSatINFO.ru</a><br>
+
 14 July<br>
 
 TP 11638 V Signal reappear.<br>

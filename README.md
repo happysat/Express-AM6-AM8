@@ -314,6 +314,10 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+24 July<br>
+
+Express AM-6 53 Ost Rossia and RTR Planeta left TP 11481 H.<br>
+
 15 July<br>
 
 In mid-June, news began to appear in the media about the violation of satellite broadcasting in the Russian Federation.<br> 

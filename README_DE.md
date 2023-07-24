@@ -314,6 +314,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+24 Juli<br>
+
+Express AM-6 53 Ost Rossia und RTR Planeta verließen TP 11481 H.<br>
+
 15 Juli<br>
 
 Mitte Juni tauchten in den Medien Nachrichten über die Verletzung der Satellitenübertragung in der Russischen Föderation auf.<br>

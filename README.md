@@ -314,6 +314,10 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+3 August<br>
+
+TP 11638 V 14 AM-8 back at normal signal.<br>
+
 24 July<br>
 
 Express AM-6 53 Ost Rossia and RTR Planeta left TP 11481 H.<br>

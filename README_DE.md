@@ -314,6 +314,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+3 August<br>
+
+TP 11638 V 14 AM-8 wieder bei normalem Signal.<br>
+
 24 Juli<br>
 
 Express AM-6 53 Ost Rossia und RTR Planeta verließen TP 11481 H.<br>

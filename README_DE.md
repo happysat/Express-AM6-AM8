@@ -314,6 +314,10 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+4 August<br>
+
+TP 11638 V Wieder gestört.<br>
+
 3 August<br>
 
 TP 11638 V 14 AM-8 wieder bei normalem Signal.<br>

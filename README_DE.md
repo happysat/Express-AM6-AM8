@@ -314,6 +314,18 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+9 August<br>
+
+AM-8 14 West TP 11638 immer noch stark gestört, TP 11484 H etwas weniger.<br>
+AM-6 53 Ost TP 11481 H störungsfrei.<br>
+Rossiya-24 / RTR-Planet auch auf Turksat 42 Ost TP 11558 V in schlechter SD-Qualität möglich.<br>
+
+Die Staatsduma kündigte die Versuche der Ukraine und des Westens an, das Satellitenfernsehen in Russland zu zerstören:<br>
+
+„Satellitenbetreiber lieferten ihrer Meinung nach mehr oder weniger detaillierte ungefähre Koordinaten – wo eine solche elektronische Kriegsführung durchgeführt wird, die eigentlich darauf abzielt, das Satellitenfernsehen in Russland zu zerstören.“ Wir hoffen, dass das Verteidigungsministerium umgehend auf dieses Problem reagiert und diese Systeme einfach zerstört werden.“<br>
+
+https://govoritmoskva.ru/news/374862/<br>
+
 4 August<br>
 
 TP 11638 V Wieder gestört.<br>

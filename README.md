@@ -314,6 +314,18 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+9 August<br>
+
+AM-8 14 West TP11638 still heavily disturbed, TP 11484 H slightly less.<br>
+AM-6 53 East TP 11481 H free of interference.<br>
+Rossiya-24 / RTR-Planet also possible on Turksat 42 East TP 11558 V in poor sd quality.<br>
+
+The State Duma announced the attempts of Ukraine and the West to destroy satellite TV in Russia:<br>
+
+”Satellite operators provided, in their opinion, more or less detailed approximate coordinates - where such electronic warfare is being carried out, aimed actually at destroying satellite television in Russia. We hope that the Ministry of Defense will respond promptly to this issue and these systems will simply be destroyed.”<br>
+
+https://govoritmoskva.ru/news/374862/<br>
+
 4 August<br>
 
 TP 11638 V Disturbed again.<br>

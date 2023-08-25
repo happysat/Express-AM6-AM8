@@ -326,6 +326,10 @@ Die Staatsduma kündigte die Versuche der Ukraine und des Westens an, das Satell
 
 https://govoritmoskva.ru/news/374862/<br>
 
+25 August<br>
+
+Neue TP AM-8 11633 V 1/2 13881, Belarus-24 HD, Perviy kanal Europa, RTR-Planeta Europa.<br>
+
 4 August<br>
 
 TP 11638 V Wieder gestört.<br>

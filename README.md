@@ -314,6 +314,10 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+25 August<br>
+
+New TP AM-8 11633 V 1/2 13881, Belarus-24 HD, Perviy kanal Europa, RTR-Planeta Europa.<br>
+
 9 August<br>
 
 AM-8 14 West TP11638 still heavily disturbed, TP 11484 H slightly less.<br>

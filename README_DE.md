@@ -326,6 +326,11 @@ Die Staatsduma kündigte die Versuche der Ukraine und des Westens an, das Satell
 
 https://govoritmoskva.ru/news/374862/<br>
 
+5 September<br>
+
+Das Signal auf TP11633 hat zugenommen.<br>
+Neues RT TP auf Fixed 2-Beam 11463 Н 8264 3/4 DVB-S2/QPSK.<br>
+
 25 August<br>
 
 Neue TP AM-8 11633 V 1/2 13881, Belarus-24 HD, Perviy kanal Europa, RTR-Planeta Europa.<br>

@@ -314,6 +314,11 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+5 September<br>
+
+Das Signal auf TP11633 hat zugenommen.<br>
+Neues RT TP auf Fixed 2-Beam 11463 Н 8264 3/4 DVB-S2/QPSK.<br>
+
 9 August<br>
 
 AM-8 14 West TP 11638 immer noch stark gestört, TP 11484 H etwas weniger.<br>
@@ -325,11 +330,6 @@ Die Staatsduma kündigte die Versuche der Ukraine und des Westens an, das Satell
 „Satellitenbetreiber lieferten ihrer Meinung nach mehr oder weniger detaillierte ungefähre Koordinaten – wo eine solche elektronische Kriegsführung durchgeführt wird, die eigentlich darauf abzielt, das Satellitenfernsehen in Russland zu zerstören.“ Wir hoffen, dass das Verteidigungsministerium umgehend auf dieses Problem reagiert und diese Systeme einfach zerstört werden.“<br>
 
 https://govoritmoskva.ru/news/374862/<br>
-
-5 September<br>
-
-Das Signal auf TP11633 hat zugenommen.<br>
-Neues RT TP auf Fixed 2-Beam 11463 Н 8264 3/4 DVB-S2/QPSK.<br>
 
 25 August<br>
 

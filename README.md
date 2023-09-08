@@ -316,7 +316,7 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 5 September<br>
 
-Signal did increase on TP11633.
+Signal did increase on TP11633.<br>
 New RT TP on fixed 2-beam 11463 Н 8264 3/4 DVB-S2/QPSK.<br>
 
 25 August<br>

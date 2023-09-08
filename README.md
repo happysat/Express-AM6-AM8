@@ -314,6 +314,11 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+5 September<br>
+
+Signal did increase on TP11633.
+New RT TP on fixed 2-beam 11463 Н 8264 3/4 DVB-S2/QPSK.<br>
+
 25 August<br>
 
 New TP AM-8 11633 V 1/2 13881, Belarus-24 HD, Perviy kanal Europa, RTR-Planeta Europa.<br>

@@ -314,6 +314,15 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+29 September<br>
+
+Many months of attacks on Russia's satellite infrastructure by unknown entities appear to have come to an end.<br>
+According to Russian media, Ukrainian hacking groups were behind the disruption of Russian programs.<br> 
+But the information cannot be verified.<br>
+
+It is not known how the disruption of Russian programs in general was resolved. It was an unprecedented attack on satellite technology.<br> 
+It entailed enormous damage for the companies: costly double distribution, program transfers to other parameters, investments in additional satellite capacity (position 56°E) and, last but not least, the possible outflow of some customers to other operators.<br>
+
 5 September<br>
 
 Signal did increase on TP11633.<br>

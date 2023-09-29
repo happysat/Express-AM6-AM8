@@ -314,6 +314,17 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+29 September<br>
+
+Die monatelangen Angriffe unbekannter Einheiten auf Russlands Satelliteninfrastruktur scheinen ein Ende zu haben.<br>
+Russischen Medien zufolge steckten ukrainische Hackergruppen hinter der Störung russischer Programme.<br>
+Die Informationen können jedoch nicht überprüft werden.<br>
+
+Es ist nicht bekannt, wie die Störung russischer Programme im Allgemeinen behoben wurde.<br>
+Es war ein beispielloser Angriff auf die Satellitentechnologie.<br>
+
+Es entstand ein enormer Schaden für die Unternehmen: kostspielige Doppelverbreitung, Programmübertragungen auf andere Parameter, Investitionen in zusätzliche Satellitenkapazitäten (Position 56°E) und nicht zuletzt die mögliche Abwanderung einiger Kunden zu anderen Betreibern.<br>
+
 5 September<br>
 
 Das Signal auf TP11633 hat zugenommen.<br>

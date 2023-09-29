@@ -320,7 +320,8 @@ Many months of attacks on Russia's satellite infrastructure by unknown entities 
 According to Russian media, Ukrainian hacking groups were behind the disruption of Russian programs.<br> 
 But the information cannot be verified.<br>
 
-It is not known how the disruption of Russian programs in general was resolved. It was an unprecedented attack on satellite technology.<br> 
+It is not known how the disruption of Russian programs in general was resolved.<br> 
+It was an unprecedented attack on satellite technology.<br> 
 It entailed enormous damage for the companies: costly double distribution, program transfers to other parameters, investments in additional satellite capacity (position 56°E) and, last but not least, the possible outflow of some customers to other operators.<br>
 
 5 September<br>

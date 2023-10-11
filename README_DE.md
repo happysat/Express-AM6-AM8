@@ -314,6 +314,12 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+10 Oktober<br>
+
+Perviy Kanal (1TVRus) hat TP 11633 verlassen, nur noch RTR-Planeta und Belarus 24HD.<br>
+
+Ethihad zurück auf TP 10971.<br>
+
 29 September<br>
 
 Die monatelangen Angriffe unbekannter Einheiten auf Russlands Satelliteninfrastruktur scheinen ein Ende zu haben.<br>

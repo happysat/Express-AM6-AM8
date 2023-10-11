@@ -314,6 +314,12 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+10 October<br>
+
+Perviy Kanal (1TVRus) left TP 11633, only RTR-Planeta and Belarus 24HD remaining.<br> 
+
+Ethihad back on TP 10971.<br> 
+
 29 September<br>
 
 Many months of attacks on Russia's satellite infrastructure by unknown entities appear to have come to an end.<br>

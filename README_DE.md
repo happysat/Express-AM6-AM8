@@ -314,6 +314,12 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+17 Oktober<br>
+
+11636 H 7500 Service 1&2 
+
+<img src="img/Service-20231017-134348.jpg" alt="" width="525" height="292"><br>
+
 10 Oktober<br>
 
 Perviy Kanal (1TVRus) hat TP 11633 verlassen, nur noch RTR-Planeta und Belarus 24HD.<br>

@@ -314,6 +314,12 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+17 Oktober<br>
+
+11636 H 7500 Service 1&2 
+
+<img src="img/Service-20231017-134348.jpg" alt="" width="525" height="292"><br>
+
 10 October<br>
 
 Perviy Kanal (1TVRus) left TP 11633, only RTR-Planeta and Belarus 24HD remaining.<br> 

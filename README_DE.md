@@ -314,6 +314,15 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+7 November<br>
+
+RTR-Planeta hat TP 11633 verlassen, nur Belarus 24 TV/Radio bleibt übrig auf diese TP, und RTR Planeta TP 11485 Fixed 2 Beam.<br>
+
+RTR-Planeta und Rossiya 24 sind weithin vorhanden auf Turksat 42 Ost TP 11558V DVB-S SR 30000 2/3 in SD-Qualität.<br>
+
+Sat Kurier hat ein alteres artikel (von Juli 2023) mit dem Titel: 'Im Jahr 2023 werden 7 der 12 Express-Satelliten außer Dienst gestellt.'<br>
+https://satkurier.pl/news/229738
+
 17 Oktober<br>
 
 11636 H 7500 Service 1&2 

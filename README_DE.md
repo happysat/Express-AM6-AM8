@@ -314,6 +314,15 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+2. Dezember<br>
+
+Belarus 24 HD Left TP 11633.<br>
+Einige Störungen auf Allhthah TV 12683 V SR 1100 AM-6 53 East.<br>
+
+21. November<br>
+
+Belarus 24 HD auf TP 11580 V DVB-S2 SR 2893.<br>
+
 7 November<br>
 
 RTR-Planeta hat TP 11633 verlassen, nur Belarus 24 TV/Radio bleibt übrig auf diese TP, und RTR Planeta TP 11485 Fixed 2 Beam.<br>

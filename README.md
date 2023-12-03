@@ -316,12 +316,12 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 2 December<br>
 
-Belarus 24 HD Left TP 11633.
-Some Jamming on Allhthah TV 12683 V SR 1100 AM-6 53 East.
+Belarus 24 HD Left TP 11633.<br>
+Some Jamming on Allhthah TV 12683 V SR 1100 AM-6 53 East.<br>
 
 21 November<br>
 
-Belarus 24 HD on TP 11580 V DVB-S2 SR 2893
+Belarus 24 HD on TP 11580 V DVB-S2 SR 2893.<br>
 
 7 November<br>
 

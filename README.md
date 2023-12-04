@@ -309,7 +309,7 @@ Free, open source, and cross-platform media player.<br>
 
 Which will allow you to play virtually any format in a DirectShow player.<br>
 
-<a href="http://madvr.com/">madVR</a> is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.<br>
+<a href="https://www.videohelp.com/software/madVR">madVR</a> is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.<br>
 Designed as a no-compromise approach, madVR delivers the ultimate video playback quality that no enthusiast should be without.<br>
 
 ## News and Updates

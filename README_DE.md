@@ -309,7 +309,7 @@ Kostenloser, quelloffener und plattformübergreifender Mediaplayer.<br>
 
 Dadurch können Sie praktisch jedes Format in einem DirectShow-Player abspielen.<br>
 
-<a href="http://madvr.com/">madVR</a> ist ein DirectShow-Video-Renderer, der von Hunderttausenden von Heimkino-Enthusiasten auf der ganzen Welt verwendet wird.<br>
+<a href="https://www.videohelp.com/software/madVR">madVR</a> ist ein DirectShow-Video-Renderer, der von Hunderttausenden von Heimkino-Enthusiasten auf der ganzen Welt verwendet wird.<br>
 madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Videowiedergabequalität, auf die kein Enthusiast verzichten sollte.<br>
 
 ## Neuigkeiten und Aktualisierungen

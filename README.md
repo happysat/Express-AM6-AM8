@@ -314,10 +314,15 @@ Designed as a no-compromise approach, madVR delivers the ultimate video playback
 
 ## News and Updates
 
+6 March 2024<br>
+
+"RT Fr" , "RT Esp" , "RT Eng" , "RT De" and "RT Arab" transmissions stopped 11.481 h 27.500 fec 3/4 DVB-S2 QPSK..<br>
+currently only the Ntv-Mir channel and the radio channel package remain.<br>
+
 2 December<br>
 
 Belarus 24 HD Left TP 11633.<br>
-Some Jamming on Allhthah TV 12683 V SR 1100 AM-6 53 East.<br>
+Some Jamming on Allhthah TV 12683 V SR 1100 AM-6 53 East
 
 21 November<br>
 

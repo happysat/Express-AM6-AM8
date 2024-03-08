@@ -314,6 +314,11 @@ madVR wurde als kompromissloser Ansatz entwickelt und bietet die ultimative Vide
 
 ## Neuigkeiten und Aktualisierungen
 
+6 März 2024<br>
+
+Die Übertragungen von „RT Fr“, „RT Esp“, „RT Eng“, „RT De“ und „RT Arab“ wurden auf 11.481 27.500 fec 3/4 DVB-S2 QPSK eingestellt.<br>
+Derzeit sind nur noch das Ntv-Mir-Kanal und  Radiosenderpaket Sputnik übrig.<br>
+
 2 Dezember<br>
 
 Belarus 24 HD Left TP 11633.<br>
